@@ -6,8 +6,10 @@ F7 Platforms
  Micron MT25QL256A
  Micron MT25QL512A
  Macronix MX25L512G
+ Winbond W25Q128
  
 H7 Platforms
+ Winbond W25Q128
  Winbond W25Q256
  
  sourcer32@gmail.com
