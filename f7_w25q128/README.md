@@ -1,4 +1,4 @@
-Tentitive STM32F7 build for the Winbond W25Q128 class devices
+Tentitive STM32F7 build for the Winbond W25Q128 and W25QL128 class devices
 
  sourcer32@gmail.com
  https://paypal.me/cliveone
