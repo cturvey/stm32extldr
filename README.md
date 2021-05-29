@@ -1,5 +1,5 @@
 # stm32extldr
-STM32 External Loader Project
+STM32 External Loader Project (Keil .FLM, STMicro .STLDR)
 
 F7 Platforms
  Micron N25Q128A
@@ -9,6 +9,7 @@ F7 Platforms
  Winbond W25Q128
  
 H7 Platforms
+ Winbond W25Q64
  Winbond W25Q128
  Winbond W25Q256
  
