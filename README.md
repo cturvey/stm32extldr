@@ -9,7 +9,9 @@
  
  * Macronix MX25L512G
  
- * Winbond W25Q64 * Winbond W25Q128 * Winbond W25Q256
+ * Winbond W25Q64
+ * Winbond W25Q128
+ * Winbond W25Q256
  
 ### H7 Platforms
 
