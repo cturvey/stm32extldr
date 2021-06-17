@@ -18,10 +18,14 @@
  
 ### H7 Platforms
 
- * Winbond W25Q64
- * Winbond W25Q128
- * Winbond W25Q256
- 
+  * Winbond
+    * W25Q64
+    * W25Q128
+    * W25Q256
+
+  * Micron
+    * MT25QL512A
+
 ### Are you interested in other platforms? L4 F4
  
  sourcer32@gmail.com
