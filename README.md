@@ -7,7 +7,7 @@
    * N25Q128A
    * MT25QL256A
    * MT25QL512A
-   * 
+ 
  
  * Macronix
   * MX25L512G
