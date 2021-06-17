@@ -8,15 +8,13 @@
    * MT25QL256A
    * MT25QL512A
  
- 
- * Macronix
-  * MX25L512G
+  * Macronix
+    * MX25L512G
 
-
- * Winbond
-  * W25Q64
-  * W25Q128
-  * W25Q256
+  * Winbond
+    * W25Q64
+    * W25Q128
+    * W25Q256
  
 ### H7 Platforms
 
