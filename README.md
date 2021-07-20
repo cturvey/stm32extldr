@@ -4,7 +4,7 @@
 ### F7 Platforms
 
  * Micron
-   * N25Q128A
+   * MT25QL128A / N25Q128A
    * MT25QL256A
    * MT25QL512A
  
@@ -18,13 +18,15 @@
  
 ### H7 Platforms
 
-  * Winbond
-    * W25Q64
-    * W25Q128
-    * W25Q256
+ * Winbond
+   * W25Q64
+   * W25Q128
+   * W25Q256
 
-  * Micron
-    * MT25QL512A
+ * Micron
+   * MT25QL128A / N25Q128A
+   * MT25QL256A
+   * MT25QL512A
 
 ### Are you interested in other platforms? L4 F4
  
