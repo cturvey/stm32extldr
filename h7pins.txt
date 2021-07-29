@@ -1,14 +1,14 @@
 ;*****************************************************************************
 ;
-; H7xx PIN CHART
+; H7xx PIN CHART *7AX
 ;
 ; CLK PF10:AF9  PB2:AF9
 ;
 ; BK1
-; NCS PB6:AF10
+; NCS PB6:AF10  PB10:AF9  PG6:AF10
 ; D0  PF8:AF10  PC9:AF9   PD11:AF9
 ; D1  PF9:AF10  PC10:AF9  PD12:AF9
-; D2  PF7:AF9   PE2:AF9
+; D2  PF7:AF9   PE2:AF9   PA7:AF10*
 ; D3  PF6:AF9   PA1:AF9   PD13:AF9
 ;
 ; BK2
@@ -19,4 +19,3 @@
 ; D3  PE10:AF10 PG14:AF9
 ;
 ;*****************************************************************************
-
