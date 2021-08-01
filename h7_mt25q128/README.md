@@ -2,10 +2,14 @@ Support for Micron MT25Q128A / MT25QL128A compatible parts on STM32H7xx platform
 
 The pin usage here is reported in the custom naming
 
-  *  CUSTOM1 PB2, PB6, PF8, PF9, PE2, PF6
-  *  CUSTOM3 PB2, PB6 PF8, PF9, PF7, PF6 
-  *  CUSTOM4 PB2, PB6, PD11, PD12, PE2, PD13
-  *  CUSTOM9 PF10, PG6, PD11, PF9, PF7, PF6
+  *  CUSTOM1 PB2, PB6, PF8, PF9, PE2, PF6  https://github.com/cturvey/stm32extldr/blob/main/h7_mt25q128/MT25Q128_STM32H7XX-CUSTOM1.FLM
+  *  CUSTOM3 PB2, PB6 PF8, PF9, PF7, PF6  https://github.com/cturvey/stm32extldr/blob/main/h7_mt25q128/MT25Q128_STM32H7XX-CUSTOM3.FLM
+  *  CUSTOM4 PB2, PB6, PD11, PD12, PE2, PD13  https://github.com/cturvey/stm32extldr/blob/main/h7_mt25q128/MT25Q128_STM32H7XX-CUSTOM4.FLM
+  *  CUSTOM5 PB2, PB10, PD11, PD12, PE2, PA1  https://github.com/cturvey/stm32extldr/blob/main/h7_mt25q128/MT25Q128_STM32H7XX-CUSTOM5.FLM
+  *  CUSTOM6 PB2, PB6, PD11, PD12, PE2, PA1  https://github.com/cturvey/stm32extldr/blob/main/h7_mt25q128/MT25Q128_STM32H7XX-CUSTOM6.FLM
+  *  CUSTOM7 PB2, PB10, PF8, PF9, PF7, PF6  https://github.com/cturvey/stm32extldr/blob/main/h7_mt25q128/MT25Q128_STM32H7XX-CUSTOM7.FLM
+  *  CUSTOM8 PF10, PB10, PF8, PF9, PE2, PD13  https://github.com/cturvey/stm32extldr/blob/main/h7_mt25q128/MT25Q128_STM32H7XX-CUSTOM8.FLM
+  *  CUSTOM9 PF10, PG6, PD11, PF9, PF7, PF6  https://github.com/cturvey/stm32extldr/blob/main/h7_mt25q128/MT25Q128_STM32H7XX-CUSTOM9.FLM
   
 This is a tentitve build awaiting more testing/feedback
 
