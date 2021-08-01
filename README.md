@@ -1,5 +1,6 @@
 # stm32extldr
 ## STM32 External Loader Project (Keil .FLM, STMicro .STLDR)
+### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts and effort
 
 ### F7 Platforms
 
