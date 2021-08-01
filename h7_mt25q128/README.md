@@ -11,9 +11,9 @@ The pin usage here is reported in the custom naming
   *  CUSTOM8 PF10, PB10, PF8, PF9, PE2, PD13
     *  https://github.com/cturvey/stm32extldr/blob/main/h7_mt25q128/MT25Q128_STM32H7XX-CUSTOM8.FLM
   *  CUSTOM9 PF10, PG6, PD11, PF9, PF7, PF6
-    *  https://github.com/cturvey/stm32extldr/blob/main/h7_mt25q128/MT25Q128_STM32H7XX-CUSTOM9.FLM
+  *  https://github.com/cturvey/stm32extldr/blob/main/h7_mt25q128/MT25Q128_STM32H7XX-CUSTOM9.FLM
   *  CUSTOM10 PB2, PB6 PC9, PC10, PE2, PA1
-    *  https://github.com/cturvey/stm32extldr/blob/main/h7_mt25q128/MT25Q128_STM32H7XX-CUSTOM10.FLM
+  *  https://github.com/cturvey/stm32extldr/blob/main/h7_mt25q128/MT25Q128_STM32H7XX-CUSTOM10.FLM
   
 This is a tentitve build awaiting more testing/feedback
 
