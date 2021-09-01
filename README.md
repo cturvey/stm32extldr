@@ -2,6 +2,8 @@
 ## STM32 External Loader Project (Keil .FLM, STMicro .STLDR)
 ### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts and effort
 
+#### Work-In-Progress, support for QSPI on OCTOSPI platforms on H72x/3x and H7Ax/Bx platforms, and Macronix MX25L3233F, MX25L12835F and MX25L25645 devices
+
 ### F7 Platforms
 
  * Micron
