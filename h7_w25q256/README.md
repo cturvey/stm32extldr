@@ -1,4 +1,4 @@
-# Micron MT25Q256 STM32H7
+# Winbond W25Q256 STM32H7
 ### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts and effort
 
 Support for Winbond W25Q256 compatible parts on STM32H7xx platforms
