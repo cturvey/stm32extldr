@@ -15,6 +15,7 @@ The pin usage here is reported in the naming (sorry, bit of an odd mix)
   *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/CLIVEONE-W25Q128_STM32H7XX-PB2-PB6-PD11-PD12-PE2-PD13.flm
   *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/CLIVEONE-W25Q128_STM32H7XX-PB2-PB6-PF8-PF9-PE2-PF6.stldr
   *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/CLIVEONE-W25Q128_STM32H7XX-PB2-PB6-PF8-PF9-PF7-PF6.flm
+  *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/CLIVEONE-W25Q128_STM32H7XX-PB2-PB6-PF8-PF9-PF7-PF6.stldr
   *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/CLIVEONE-W25Q128_STM32H7XX-PF10-PB10-PF8-PF9-PE2-PD13.flm
   *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/CLIVEONE-W25Q128_STM32H7XX-PF10-PB10-PF8-PF9-PE2-PD13.stldr
   *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/CLIVEONE-W25Q128_STM32H7XX-PF10-PB10-PF8-PF9-PF7-PF6.stldr
