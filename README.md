@@ -37,7 +37,7 @@
    * MT25QL256A
    * MT25QL512A
 
-### Are you interested in other platforms? L4 F4 L5 U5 ??
+### Are you interested in other platforms? L4 F4 L5 U5 ?? Custom boards, different pinning ??
  
  sourcer32@gmail.com
  
