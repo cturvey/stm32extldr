@@ -18,6 +18,9 @@
     * W25Q64
     * W25Q128
     * W25Q256
+    * W25Q512
+    * W25Q01  - Beta Testing
+    * W25Q02  - From Docs
  
 ### H7 Platforms
 
@@ -25,13 +28,16 @@
    * W25Q64
    * W25Q128
    * W25Q256
+   * W25Q512 - Pending
+   * W25Q01  - Pending BSP/Test working
+   * W25Q02  - Pending
 
  * Micron
    * MT25QL128A / N25Q128A
    * MT25QL256A
    * MT25QL512A
 
-### Are you interested in other platforms? L4 F4
+### Are you interested in other platforms? L4 F4 L5 U5 ??
  
  sourcer32@gmail.com
  
