@@ -2,9 +2,15 @@
 ## STM32 External Loader Project (Keil .FLM, STMicro .STLDR)
 ### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts and effort. Suggested $80-100 USD
 
-#### Work-In-Progress, support for QSPI on OCTOSPI platforms on H72x/3x and H7Ax/Bx platforms, and Macronix MX25L3233F, MX25L6433F, MX25L12835F and MX25L25645 devices
+## Work-In-Progress
 
-### F7 Platforms
+#### Support for QSPI on OCTOSPI platforms on L4(+), H72x/3x and H7Ax/Bx platforms
+
+#### Macronix MX25L3233F, MX25L6433F, MX25L12835F and MX25L25645 devices
+
+#### Micron MT35XU512, MT35XU01G, MT35XU02G devices
+
+## F7 Platforms
 
  * Micron
    * MT25QL128A / N25Q128A
@@ -24,7 +30,7 @@
     * W25Q01
     * W25Q02  - From Docs
  
-### H7 Platforms
+## H7 Platforms
 
  * Winbond
    * W25Q64
