@@ -1,8 +1,10 @@
 # Macronix MX25LM51245GMI00 - STM32L4+ OCTOSPI
 ### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts and effort
 
-  * PG12,PI6,PG15 PI11,PI10,PI9,PH8,PH9,PH10,PG9,PG10
-     *  https://github.com/cturvey/stm32extldr/blob/main/h7_mx25lm51245g/CLIVEONE-MX25LM51245G_STM32H7X3-PB2-PB10-PC5-PD11-PD12-PE2-PD13-PC1-PC2-PC3-PD7.stldr
+#### NCS,CLK,DQS D0,D1,D2,D3, D4,D5,D6,D7
+
+  * PG12,PI6,PG15 PI11,PI10,PI9,PH8, PH9,PH10,PG9,PG10  OCTOSPI2/AF5
+     *  https://github.com/cturvey/stm32extldr/blob/main/l4_mx25lm512/CLIVEONE-MX25LM512_STM32L4XX-CUSTOM1.stldr
 
 These are tentitve builds awaiting more testing/feedback
 
