@@ -21,6 +21,7 @@
     * MX25L512G
     * MX25L3233F - Pending
     * MX25L6433F - Pending
+    * MX66L1G45G - Pending
 
   * Winbond
     * W25Q64
@@ -46,9 +47,12 @@
    * MT25QL512A
 
   * Macronix
-    * MX25LM51245G (OCTOSPI H7A3/7B3)
+    * MX25L51245G (QUAD SPI)
+    * MX25LM51245G (OCTO SPI H7A3/7B3)
     * MX25L3233F - Pending
     * MX25L6433F - Pending
+    * MX66L1G45G - Pending (QUAD SPI)
+    * MX66LM1G45G - Pending (OCTO SPI)
 
 ### Are you interested in other platforms? L4 F4 L5 U5 ?? Custom boards, different pinning ??
  
