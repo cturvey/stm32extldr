@@ -1,4 +1,4 @@
-# Macronix MX25LM51245GMI00
+# Macronix MX25LM51245GMI00 (Octo SPI)
 ### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts and effort
 
 STM32H7B3IIT6
