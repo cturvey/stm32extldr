@@ -7,6 +7,12 @@ Pending parts and contributions
 
 https://www.macronix.com/Lists/Datasheet/Attachments/8748/MX66LM1G45G,%203V,%201Gb,%20v1.1.pdf
 
+Macronix is providing MX66LM1G45GMI00 samples to the project, so a big thank you to them.
+
+STM32H735-DK BOARD
+PG6,PF10,PB2  PD11,PD12,PE2,PD13 PD4,PD5,PG9,PD7
+
+
 For Keil .FLM make sure at least 52KB RAM selected for algorithms, and .FLM filename is 31 characters or less
 
  sourcer32@gmail.com
