@@ -6,7 +6,7 @@ Support for Winbond W25Q02JV compatible parts on STM32H7xx platforms
   W25Q02JV
   https://www.winbond.com/resource-files/W25Q02JV_DTR%20RevB%2004192021.pdf
   
-Waiting on parts, fixturing, or beta-testers..
+A couple of tentitive builds based on NUCLEO-H743ZI,H753ZI,H743ZI2 fixture and common stacked die implementation of 1Gb and 2Gb devices
 
 For Keil .FLM make sure at least 52KB RAM selected for algorithms, and .FLM filename is 31 characters or less
 
