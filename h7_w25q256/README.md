@@ -4,6 +4,8 @@
 Support for Winbond W25Q256 compatible parts on STM32H7xx platforms
 
 The pin usage here is reported in the naming
+  *  PB2,PB6 PF8,PF9,PE2,PF6 (CUSTOM1)
+     *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q256/CLIVEONE-W25Q256_STM32H7XX-PB2-PB6-PF8-PF9-PE2-PF6.stldr
   *  PB2,PB6 PF8,PF9,PF7,PF6 (CUSTOM3)
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q256/CLIVEONE-W25Q256_STM32H7XX-PB2-PB6-PF8-PF9-PF7-PF6.flm
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q256/CLIVEONE-W25Q256_STM32H7XX-PB2-PB6-PF8-PF9-PF7-PF6.stldr
