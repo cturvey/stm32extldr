@@ -54,6 +54,17 @@
     * MX66L1G45G - Pending (QUAD SPI)
     * MX66LM1G45G - Pending (OCTO SPI)
 
+## L4 Platforms
+
+ * Winbond
+   * W25Q512
+
+  * Macronix
+    * MX25L32
+    * MX25L64
+    * MX25L128 - Pending
+    * MX25L256 - Pending
+
 ### Are you interested in other platforms? L4 F4 L5 U5 ?? Custom boards, different pinning ??
  
  sourcer32@gmail.com
