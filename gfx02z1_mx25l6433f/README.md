@@ -7,3 +7,4 @@ https://www.st.com/en/embedded-software/x-cube-display.html
 Initial loader targets
   *  NUCLEO-H743ZI(2)
   *  NUCLEO-F767ZI
+  *  NUCLEO-L496ZG
