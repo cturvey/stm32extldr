@@ -1,6 +1,6 @@
 # stm32extldr
 ## STM32 External Loader Project (Keil .FLM, STMicro .STLDR)
-### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts and effort. Suggested $80-100 USD
+### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts, fixtures and effort. Suggested $80-100 USD
 
 ## Work-In-Progress
 
@@ -9,6 +9,10 @@
 #### Macronix MX25L3233F, MX25L6433F, MX25L12835F and MX25L25645 devices
 
 #### Micron MT35XU512, MT35XU01G, MT35XU02G devices
+
+#### BGA24 ZIF Socket in hand, need to wire a NUCLEO-144 fixture
+
+#### Pending generally means I've got 95% percent of it done, but need to allot time to porting to specific board/pin combos, and then construct a directory and upload it.
 
 ## F7 Platforms
 
@@ -31,7 +35,7 @@
     * W25Q01
     * W25Q02  - From Docs
  
-## H7 Platforms
+## H7 Platforms (QUAD)
 
  * Winbond
    * W25Q64
@@ -48,10 +52,14 @@
 
   * Macronix
     * MX25L51245G (QUAD SPI)
-    * MX25LM51245G (OCTO SPI H7A3/7B3)
     * MX25L3233F - Pending
     * MX25L6433F - Pending
     * MX66L1G45G - Pending (QUAD SPI)
+
+## H7 Platforms (OCTO)
+
+  * Macronix
+    * MX25LM51245G (OCTO SPI H7A3/7B3)
     * MX66LM1G45G - Pending (OCTO SPI)
 
 ## L4 Platforms (QUAD)
@@ -62,7 +70,7 @@
   * Macronix
     * MX25L32
     * MX25L64
-    * MX25L128 - Pending
+    * MX25L128 - Pending (Core works, need to selectively compile)
     * MX25L256 - Pending
     * MX25L512 - Pending
     * MX66L512 - Pending
