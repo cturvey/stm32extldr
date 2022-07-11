@@ -26,6 +26,7 @@
     * MT25QL128A / N25Q128A
     * MT25QL256A
     * MT25QL512A
+    * MT25QL01GB - Pending
     * MT35XL256 - Pending
     * MT35XL512 - Pending
     * MT35XL01G - Pending
@@ -59,6 +60,7 @@
     * MT25QL128A / N25Q128A
     * MT25QL256A
     * MT25QL512A
+    * MT25QL01GB - Pending
     * MT35XL256 - Tentitive/Available
     * MT35XL512
     * MT35XL01G (2x DIE) - Pending
@@ -101,6 +103,10 @@
     * MX66L2G - Pending
 
   * Micron
+    * MT25QL128A - Pending
+    * MT25QL256A - Pending
+    * MT25QL512A - Pending
+    * MT25QL01GB - Pending
     * MT35XL512 - Pending
     * MT35XL01G - Pending
     * MT35XL02G - Pending
