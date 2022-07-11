@@ -4,13 +4,19 @@
 
 ## Work-In-Progress
 
-#### Support for QSPI on OCTOSPI platforms on L4(+), H72x/3x and H7Ax/Bx platforms
+#### Support for QSPI parts on OCTOSPI platforms on L4(+), H72x/3x and H7Ax/Bx platforms
 
-#### Macronix MX25L3233F, MX25L6433F, MX25L12835F and MX25L25645 devices
+#### Support for OCTOSPI parts on QUADSPI platforms, "Universal Programmer" approach
 
-#### Micron MT35XU512, MT35XU01G, MT35XU02G devices
+#### Macronix MX25L3233F, MX25L6433F, MX25L12835F and MX25L25645 devices (QUAD)
 
-#### BGA24 ZIF Socket in hand, need to wire a NUCLEO-144 fixture
+#### Micron MT35XU512/MT35XL512, MT35XU01G, MT35XU02G devices (XL/XU) (OCTO)
+
+#### BGA24 ZIF Socket(s) in hand 6x8mm 5x5 and 4x6 configurations, NUCLEO-144 plug-in fixtures built
+
+#### SOP16 / SOIC16W plug-in fixtures, and hard wired NUCLEO's built
+
+#### SOIC8(W) 150 mil and 200 mil NUCLEO-144 plug-in fixtures built
 
 #### Pending generally means I've got 95% percent of it done, but need to allot time to porting to specific board/pin combos, and then construct a directory and upload it.
 
@@ -20,6 +26,9 @@
    * MT25QL128A / N25Q128A
    * MT25QL256A
    * MT25QL512A
+   * MT35XL512 - Pending
+   * MT35XL01G - Pending
+   * MT35XL02G - Pending
  
   * Macronix
     * MX25L512G
@@ -49,6 +58,9 @@
    * MT25QL128A / N25Q128A
    * MT25QL256A
    * MT25QL512A
+   * MT35XL512
+   * MT35XL01G - Pending
+   * MT35XL02G - Pending
 
   * Macronix
     * MX25L51245G (QUAD SPI)
@@ -61,6 +73,11 @@
   * Macronix
     * MX25LM51245G (OCTO SPI H7A3/7B3)
     * MX66LM1G45G - Pending (OCTO SPI)
+
+  * Micron
+    * MT35XL512
+    * MT35XL01G - Pending
+    * MT35XL02G - Pending
 
 ## L4 Platforms (QUAD)
 
@@ -77,6 +94,11 @@
     * MX66L1G - Pending
     * MX66L2G - Pending
 
+  * Micron
+    * MT35XL512 - Pending
+    * MT35XL01G - Pending
+    * MT35XL02G - Pending
+
 ## L4+ Platforms (OCTO)
 
   * Macronix
@@ -85,13 +107,17 @@
     * MX66LM1G - Pending
     * MX66LM2G - Pending
 
+  * Micron
+    * MT35XL512 - Pending
+    * MT35XL01G - Pending
+    * MT35XL02G - Pending
+    
 ### Are you interested in other platforms? F4 L5 U5 ?? Custom boards, different pinning ??
  
  sourcer32@gmail.com
  
- ## https://paypal.me/cliveone (Preferred)
-  
- ## Amazon Gift Cards
-
- ## https://www.venmo.com/u/cliveone
+##  Support
  
+  *  https://paypal.me/cliveone (Preferred)
+  *  Amazon Gift Cards 
+  *  https://www.venmo.com/u/cliveone
