@@ -10,7 +10,7 @@
 
 #### Macronix MX25L3233F, MX25L6433F, MX25L12835F and MX25L25645 devices (QUAD)
 
-#### Micron MT35XU512/MT35XL512, MT35XU01G, MT35XU02G devices (XL/XU) (OCTO)
+#### Micron MT35XL256, MT35XU512/MT35XL512, MT35XU01G/MT35XL01G, MT35XU02G/MT35XL02G devices (XL 3V/XU 1.8V) (OCTO)
 
 #### BGA24 ZIF Socket(s) in hand 6x8mm 5x5 and 4x6 configurations, NUCLEO-144 plug-in fixtures built
 
@@ -22,13 +22,14 @@
 
 ## F7 Platforms
 
- * Micron
-   * MT25QL128A / N25Q128A
-   * MT25QL256A
-   * MT25QL512A
-   * MT35XL512 - Pending
-   * MT35XL01G - Pending
-   * MT35XL02G - Pending
+  * Micron
+    * MT25QL128A / N25Q128A
+    * MT25QL256A
+    * MT25QL512A
+    * MT35XL256 - Pending
+    * MT35XL512 - Pending
+    * MT35XL01G - Pending
+    * MT35XL02G - Pending
  
   * Macronix
     * MX25L512G
@@ -41,48 +42,53 @@
     * W25Q128
     * W25Q256
     * W25Q512
-    * W25Q01
-    * W25Q02  - From Docs
+    * W25Q01 (2x DIE)
+    * W25Q02 (4x DIE) - From Docs
  
 ## H7 Platforms (QUAD)
 
- * Winbond
-   * W25Q64
-   * W25Q128
-   * W25Q256
-   * W25Q512 - Pending
-   * W25Q01  - Pending BSP/Test working
-   * W25Q02  - Pending
+  * Winbond
+    * W25Q64
+    * W25Q128
+    * W25Q256
+    * W25Q512 - Pending
+    * W25Q01  - Pending BSP/Test working
+    * W25Q02  - Pending
 
- * Micron
-   * MT25QL128A / N25Q128A
-   * MT25QL256A
-   * MT25QL512A
-   * MT35XL512
-   * MT35XL01G - Pending
-   * MT35XL02G - Pending
+  * Micron
+    * MT25QL128A / N25Q128A
+    * MT25QL256A
+    * MT25QL512A
+    * MT35XL256 - Tentitive/Available
+    * MT35XL512
+    * MT35XL01G (2x DIE) - Pending
+    * MT35XL02G (4x DIE) - Pending
 
-  * Macronix
-    * MX25L51245G (QUAD SPI)
-    * MX25L3233F - Pending
-    * MX25L6433F - Pending
-    * MX66L1G45G - Pending (QUAD SPI)
+   * Macronix
+     * MX25L51245G (QUAD SPI)
+     * MX25L3233F - Pending
+     * MX25L6433F - Pending
+     * MX66L512 - Pending
+     * MX66L1G45G (2x DIE) - Pending (QUAD SPI)
+     * MX66L2G45G (4x DIE) - Pending (QUAD SPI)
 
 ## H7 Platforms (OCTO)
 
   * Macronix
     * MX25LM51245G (OCTO SPI H7A3/7B3)
-    * MX66LM1G45G - Pending (OCTO SPI)
+    * MX66LM1G45G (2x DIE) - Pending (OCTO SPI)
+    * MX66LM2G45G (4x DIE) - Pending (OCTO SPI)
 
   * Micron
+    * MT35XL256 - Tentitive/Available
     * MT35XL512
-    * MT35XL01G - Pending
-    * MT35XL02G - Pending
+    * MT35XL01G (2x DIE) - Pending
+    * MT35XL02G (4x DIE) - Pending
 
 ## L4 Platforms (QUAD)
 
- * Winbond
-   * W25Q512
+  * Winbond
+    * W25Q512
 
   * Macronix
     * MX25L32
