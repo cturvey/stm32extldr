@@ -1,5 +1,5 @@
-# Winbond W25Q256 STM32F7
-### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts and effort
+# Winbond W25Q256 (256Mbit / 32MB) STM32F7
+### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts, fixtures and effort. Suggested $80-100 USD
 
 Tentitive STM32F7 build for the Winbond W25Q256 / W25QL256 class devices
 
@@ -18,4 +18,3 @@ PB2,PB6  PD11,PD12,PE2,PD13 (CUSTOM4)
 
  sourcer32@gmail.com
  https://paypal.me/cliveone
- 
