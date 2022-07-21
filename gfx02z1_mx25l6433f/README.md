@@ -8,3 +8,6 @@ Initial loader targets
   *  NUCLEO-H743ZI(2)
   *  NUCLEO-F767ZI
   *  NUCLEO-L496ZG
+
+  sourcer32@gmail.com
+  https://paypal.me/cliveone
