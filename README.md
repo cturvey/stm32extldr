@@ -8,7 +8,7 @@
 
 #### Support for OCTOSPI parts on QUADSPI platforms, "Universal Programmer" approach
 
-#### ISSI IS25LP256D, IS25LP512M, IS25LP512MG devices(LP/WP)
+#### ISSI IS25LP256D, IS25LP512M, IS25LP512MG devices (LP/WP)
 
 #### Macronix MX25L3233F, MX25L6433F, MX25L12835F and MX25L25645 devices (QUAD)
 
@@ -27,7 +27,7 @@
   * Micron
     * MT25QL128A / N25Q128A
     * MT25QL256A
-    * MT25QL512A
+    * MT25QL512A (QL 3V / QU 1.8V)
     * MT25QL01GB - Pending
     * MT25QL02GC - Pending
     * MT35XL256 - Pending
@@ -77,6 +77,12 @@
      * MX66L512 - Pending
      * MX66L1G45G (2x DIE) - Pending (QUAD SPI)
      * MX66L2G45G (4x DIE) - Pending (QUAD SPI)
+
+   * ISSI
+     * IS25LP128 - Pending
+     * IS25LP256D - Pending
+     * IS25LP512M - Pending
+     * IS25LP512MG - Pending
 
 ## H7 Platforms (OCTO)
 
