@@ -16,6 +16,8 @@
 
 #### Micron MT35XL256, MT35XU512/MT35XL512, MT35XU01G/MT35XL01G, MT35XU02G/MT35XL02G devices (XL 3V/XU 1.8V) (OCTO)
 
+#### Micron N25Q512, N25Q00, older 256Mb/32MB die based device (QUAD)
+
 #### BGA24 ZIF Socket(s) in hand 6x8mm 5x5 and 4x6 configurations, NUCLEO-144 plug-in fixtures built
 
 #### SOP16 / SOIC16W plug-in fixtures, and hard wired NUCLEO's built
@@ -142,6 +144,11 @@
     * MT35XL512 - Pending
     * MT35XL01G - Pending
     * MT35XL02G - Pending
+
+## G4 Platforms
+
+  * Macronix
+    * MX25L64 (GFX Board)
     
 ### Are you interested in other platforms? F4 L5 U5 ?? Custom boards, different pinning ??
  
