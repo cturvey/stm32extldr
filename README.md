@@ -31,6 +31,8 @@
 ## F7 Platforms
 
   * Micron
+    * N25Q32 - Pending
+    * N25Q064 - Pending
     * MT25QL128A / N25Q128A
     * MT25QL256A
     * MT25QL512A (QL 3V / QU 1.8V)
