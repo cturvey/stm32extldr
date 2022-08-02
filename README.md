@@ -48,6 +48,9 @@
     * MX66L1G45G - Pending
 
   * Winbond
+    * W25Q080 - Pending
+    * W25Q16 - Pending
+    * W25Q32 - Pending
     * W25Q64
     * W25Q128
     * W25Q256
@@ -58,6 +61,9 @@
 ## H7 Platforms (QUAD)
 
   * Winbond
+    * W25Q080 - Pending
+    * W25Q16 - Pending
+    * W25Q32 - Pending
     * W25Q64
     * W25Q128
     * W25Q256
@@ -106,6 +112,12 @@
 ## L4 Platforms (QUAD)
 
   * Winbond
+    * W25Q080 - Pending
+    * W25Q16 - Pending
+    * W25Q32 - Pending
+    * W25Q64 - Pending
+    * W25Q128 - Pending
+    * W25Q256 - Pending
     * W25Q512
 
   * Macronix
