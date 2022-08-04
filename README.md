@@ -10,7 +10,9 @@
 
 #### ISSI IS25LP256D, IS25LP512M, IS25LP512MG devices (LP/WP)
 
-#### Infineon/Spansion S25FL064, S25FL128, S25FL256, S25FL512 devices (QUAD)
+#### Infineon/Spansion S25FL064, S25FL128, S25FL256, S25FL512 devices (65nm) (QUAD)
+
+#### Infineon/Cypress S25HL512/S25SL512, S25HL01G, S25HL02G devices (HL 3V/SL 1.8V, 45nm) (QUAD)
 
 #### GigaDevice GD25Q32B, GD25Q64C, GD25Q128C devices (QUAD)
 
