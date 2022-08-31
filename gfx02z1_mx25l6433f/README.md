@@ -1,3 +1,6 @@
+# X-NUCLEO-GFX02Z1
+### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts, fixtures and effort. Suggested $80-100 USD
+
 Placeholder for X-NUCLEO-GFX02Z1 board loaders, NUCLEO-144 format board with MX25L6433F
 
 https://www.st.com/en/evaluation-tools/x-nucleo-gfx02z1.html
