@@ -1,5 +1,5 @@
 # Macronix MX66L1G45GMI-08G - STM32H7 Quad SPI
-### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts and effort
+### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts, fixtures and effort. Suggested $80-100 USD
 
 #### NCS,CLK D0,D1,D2,D3
 
