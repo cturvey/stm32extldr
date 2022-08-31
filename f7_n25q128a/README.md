@@ -1,5 +1,5 @@
-# Micron MT25Q128
-### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts and effort
+# Micron MT25Q128 - STM32F7
+### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts, fixtures and effort. Suggested $80-100 USD
 
 Support for Micron MT25Q128A / MT25QL128A compatible parts on STM32F7xx platforms
 
