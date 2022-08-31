@@ -1,5 +1,5 @@
 # Macronix MX25LM51245GMI00 (Octo SPI)
-### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts and effort
+### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts, fixtures and effort. Suggested $80-100 USD
 
 STM32H7B3IIT6
 MX25LM51245GMI00
