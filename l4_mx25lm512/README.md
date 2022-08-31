@@ -1,5 +1,5 @@
 # Macronix MX25LM51245GMI00 - STM32L4+ OCTOSPI
-### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts and effort
+### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts, fixtures and effort. Suggested $80-100 USD
 
 #### NCS,CLK,DQS D0,D1,D2,D3, D4,D5,D6,D7
 
