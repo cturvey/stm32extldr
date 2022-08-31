@@ -1,5 +1,5 @@
 # Macronix MX66LM1G45G - STM32H7 Octo SPI
-### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts and effort
+### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts, fixtures and effort. Suggested $80-100 USD
 
 #### NCS,CLK,DQS D0,D1,D2,D3, D4,D5,D6,D7
 
