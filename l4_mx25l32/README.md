@@ -1,5 +1,5 @@
 # Macronix MX25L32 STM32L4
-### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts and effort
+### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts, fixtures and effort. Suggested $80-100 USD
 
 Support for MX25L32 STM32L4 compatible parts on STM32L4xx platforms
 
