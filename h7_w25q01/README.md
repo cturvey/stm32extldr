@@ -1,5 +1,5 @@
 # Winbond W25Q01 (1Gbit / 128MB)
-### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts and effort
+### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts, fixtures and effort. Suggested $80-100 USD
 
 Support for Winbond W25Q01JV compatible parts on STM32H7xx platforms
 
