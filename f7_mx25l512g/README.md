@@ -1,3 +1,6 @@
+# Macronix MX25L512G - STM32F7
+### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts, fixtures and effort. Suggested $80-100 USD
+
 Support for Macronix MX25L512G compatible parts on STM32F7xx platforms
 
 The pin usage here is reported in the naming
