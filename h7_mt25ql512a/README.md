@@ -10,6 +10,7 @@ The pin usage here is reported in the naming
    * https://github.com/cturvey/stm32extldr/blob/main/h7_mt25ql512a/CLIVEONE-MT25QL512A_STM32H7XX-PF10-PG6-PD11-PF9-PF7-PF6.flm
 
  * PB2,PB6,PD11,PD12,PE2,PA1
+   * https://github.com/cturvey/stm32extldr/blob/main/h7_mt25ql512a/CLIVEONE-MT25QL512A_STM32H7XX-PB2-PB6-PD11-PD12-PE2-PA1.stldr
    * https://github.com/cturvey/stm32extldr/blob/main/h7_mt25ql512a/CLIVEONE-MT25QL512A_STM32H7XX-PB2-PB6-PD11-PD12-PE2-PA1.flm
 
  * PB2,PB6,PD11,PD12,PE2,PD13
