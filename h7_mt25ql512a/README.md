@@ -41,6 +41,9 @@ The pin usage here is reported in the naming
  * PB2,PG6,PF8,PF9,PF7,PF6 (CUSTOM17 / RIVERDI)
    * https://github.com/cturvey/stm32extldr/blob/main/h7_mt25ql512a/CLIVEONE-MT25QL512A_STM32H7XX-PB2-PG6-PF8-PF9-PF7-PF6.stldr
 
+ * PB2,PB6,PC9,PC10,PE2,PD13 (CUSTOM18)
+   * https://github.com/cturvey/stm32extldr/blob/main/h7_mt25ql512a/CLIVEONE-MT25QL512A_STM32H7XX-PB2-PB6-PC9-PC10-PE2-PD13.stldr
+   
  * PB2,PG6,PD11,PF9,PF7,PF6
    * https://github.com/cturvey/stm32extldr/blob/main/h7_mt25ql512a/CLIVEONE-MT25QL512_STM32H7XX-PB2-PG6-PD11-PF9-PF7-PF6.stldr
 
