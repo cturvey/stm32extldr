@@ -22,6 +22,7 @@ The pin usage here is reported in the naming
 
  * PB2,PB10,PF8,PB9,PF7,PF6 (CUSTOM7)
    * https://github.com/cturvey/stm32extldr/blob/main/h7_mt25ql512a/CLIVEONE-MT25QL512_STM32H7XX-PB2-PB10-PF8-PF9-PF7-PF6.stldr
+   * https://github.com/cturvey/stm32extldr/blob/main/h7_mt25ql512a/MT25QL512A_STM32H7XX-CUSTOM7.FLM
 
  * PF10,PB10,PF8,PF9,PE2,PD13 (CUSTOM8)
    * https://github.com/cturvey/stm32extldr/blob/main/h7_mt25ql512a/CLIVEONE-MT25QL512A_STM32H7XX-PF10-PB10-PF8-PF9-PE2-PD13.flm
@@ -32,12 +33,14 @@ The pin usage here is reported in the naming
 
  * PB2,PB6,PC9,PC10,PE2,PA1 (CUSTOM10)
    * https://github.com/cturvey/stm32extldr/blob/main/h7_mt25ql512a/CLIVEONE-MT25QL512_STM32H7XX-PB2-PB6-PC9-PC10-PE2-PA1.stldr
+   * https://github.com/cturvey/stm32extldr/blob/main/h7_mt25ql512a/MT25QL512A_STM32H7XX-CUSTOM10.FLM
 
  * PB2,PG6,PD11,PD12,PE2,PD13 (CUSTOM11) NUCLEO-H743ZI2
    * https://github.com/cturvey/stm32extldr/blob/main/h7_mt25ql512a/CLIVEONE-MT25QL512_STM32H7XX-PB2-PG6-PD11-PD12-PE2-PD13.stldr
  
  * PB2,PB10,PF8,PF9,PE2,PD13 (CUSTOM12)
    * https://github.com/cturvey/stm32extldr/blob/main/h7_mt25ql512a/CLIVEONE-MT25QL512A_STM32H7XX-PB2-PB10-PF8-PF9-PE2-PD13.stldr
+   * https://github.com/cturvey/stm32extldr/blob/main/h7_mt25ql512a/MT25QL512A_STM32H7XX-CUSTOM12.FLM
 
  * PB2,PG6,PD11,PD12,PE2,PD13 (CUSTOM14)
    * https://github.com/cturvey/stm32extldr/blob/main/h7_mt25ql512a/MT25QL512A_STM32H7XX-CUSTOM14.FLM
@@ -63,6 +66,10 @@ The pin usage here is reported in the naming
    * https://github.com/cturvey/stm32extldr/blob/main/h7_mt25ql512a/MT25QL512A_STM32H7AX-CUSTOM12B.FLM
 
 These are tentitve builds awaiting more testing/feedback
+
+.FLM filenames should be limited to 31 characters, and should be placed in the C:\Keil\ARM\Flash directory
+The RAM available for the Flash Algorithm should be as large as possible to accomodate the size of the loader
+https://github.com/cturvey/stm32extldr/blob/main/f7_w25q128/KeilFLMSetRamSize.jpg
 
  sourcer32@gmail.com
  https://paypal.me/cliveone
