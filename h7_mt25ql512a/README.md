@@ -15,6 +15,7 @@ The pin usage here is reported in the naming
 
  * PB2,PB10,PD1,PD12,PE2,PA1 (CUSTOM5)
    * https://github.com/cturvey/stm32extldr/blob/main/h7_mt25ql512a/CLIVEONE-MT25QL512A_STM32H7XX-PB2-PB10-PD11-PD12-PE2-PA1.stldr
+   * https://github.com/cturvey/stm32extldr/blob/main/h7_mt25ql512a/MT25QL512A_STM32H7XX-CUSTOM5.FLM
    
  * PB2,PB6,PD11,PD12,PE2,PA1 (CUSTOM6)
    * https://github.com/cturvey/stm32extldr/blob/main/h7_mt25ql512a/CLIVEONE-MT25QL512A_STM32H7XX-PB2-PB6-PD11-PD12-PE2-PA1.stldr
@@ -68,6 +69,7 @@ The pin usage here is reported in the naming
 These are tentitve builds awaiting more testing/feedback
 
 .FLM filenames should be limited to 31 characters, and should be placed in the C:\Keil\ARM\Flash directory
+
 The RAM available for the Flash Algorithm should be as large as possible to accomodate the size of the loader
 https://github.com/cturvey/stm32extldr/blob/main/f7_w25q128/KeilFLMSetRamSize.jpg
 
