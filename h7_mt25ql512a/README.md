@@ -57,6 +57,9 @@ The pin usage here is reported in the naming
  * PB2,PG6,PD11,PF9,PF7,PF6 (CUSTOM19) H747I-DISCO LOW BANK
    * https://github.com/cturvey/stm32extldr/blob/main/h7_mt25ql512a/CLIVEONE-MT25QL512_STM32H7XX-PB2-PG6-PD11-PF9-PF7-PF6.stldr
 
+ * PB2,PB6,PD11,PC10,PE2,PD13 (CUSTOM20)
+   * https://github.com/cturvey/stm32extldr/blob/main/h7_mt25ql512a/MT25QL512A_STM32H7XX-CUSTOM20.FLM
+
  * PB2,PB6,PD11,PD12,PE2,PD13 (H7Ax, H7Bx QUAD on OCTO) NUCLEO-H7A3
    * https://github.com/cturvey/stm32extldr/blob/main/h7_mt25ql512a/MT25QL512A_STM32H7AX-CUSTOM12.FLM
 
