@@ -3,7 +3,12 @@
 
 Tentitive STM32F7 builds for the Winbond W25Q128 / W25QL128 class devices
 
-Adding in some Keil .FLM to the experiment here
+For Keil .FLM make sure at least 52KB RAM selected for algorithms, and .FLM filename is 31 characters or less
 
  sourcer32@gmail.com
- https://paypal.me/cliveone
+ 
+ ## https://paypal.me/cliveone (Preferred)
+  
+ ## Amazon Gift Cards
+
+ ## https://www.venmo.com/u/cliveone
