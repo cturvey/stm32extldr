@@ -1,4 +1,4 @@
-# Macronix MX25L3233F (4MB) STM32H7
+# Macronix MX25L3233F (32Mbit / 4MB) STM32H7
 ### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts, fixtures and effort. Suggested $80-100 USD
 
 Support for MX25L32 / MX32L3233F compatible parts on STM32H7xx QUADSPI and OCTOSPI platforms
