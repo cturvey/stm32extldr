@@ -12,6 +12,7 @@ New fork using GNU/GCC and MAKE, back-ported to F7 from L4 / H7 related work (7.
  * https://github.com/cturvey/stm32extldr/blob/main/f7_mx25l512g/CLIVEONE-MX25L512_STM32F7XX-PF10-PB6-PD11-PD12-PE2-PF6.stldr
  * https://github.com/cturvey/stm32extldr/blob/main/f7_mx25l512g/CLIVEONE-MX25L512_STM32F7XX-PB2-PB6-PC9-PC10-PE2-PA1.stldr
  * https://github.com/cturvey/stm32extldr/blob/main/f7_mx25l512g/CLIVEONE-MX25L512_STM32F7XX-PB2-PB6-PC9-PC10-PE2-PD13.stldr
+ * https://github.com/cturvey/stm32extldr/blob/main/f7_mx25l512g/CLIVEONE-MX25L512_STM32F7XX-PB2-PB6-PF8-PF9-PE2-PD13.stldr
 
 Old fork using Keil Assembler (re)built loaders (4.4 KB)
 
