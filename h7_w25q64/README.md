@@ -3,20 +3,22 @@
 
 Support for Winbond W25Q64 compatible parts on STM32H7xx platforms
 
-  * PB2,PB6,PD11,PD12,PE2,PD13 (CUSTOM4) NUCLEO-H743ZI
+  * PB2,PB6,PD11,PD12,PE2,PD13  (CUSTOM4) NUCLEO-H743ZI
     *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q64/CLIVEONE-W25Q64_STM32H7XX-PB2-PB6-PD11-PD12-PE2-PD13.stldr
     *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q64/CLIVEONE-W25Q64_STM32H7XX-PB2-PB6-PD11-PD12-PE2-PD13.flm
 
-  * PB2,PB6,PF8,PF9,PF7,PF6 (CUSTOM3)
+  * PB2,PB6,PF8,PF9,PF7,PF6  (CUSTOM3)
     *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q64/CLIVEONE-W25Q64_STM32F7XX-PB2-PB6-PF8-PF9-PF7-PF6.stldr
     *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q64/CLIVEONE-W25Q64_STM32F7XX-PB2-PB6-PF8-PF9-PF7-PF6.flm
     
-  * PF10,PG6,PD11,PF9,PF7,P6
+  * PF10,PG6,PD11,PF9,PF7,PF6
     *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q64/CLIVEONE-W25Q64_STM32F7XX-PF10-PG6-PD11-PF9-PF7-PF6.flm
     
   * PB2,PB6,PD11,PD12,PE2,PA1
     *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q64/CLIVEONE-W25Q64_STM32H7XX-PB2-PB6-PD11-PD12-PE2-PA1.flm
-    
+
+  * PF10,PG6,PF8,PF9,PF7,PF6 ART-PI H750
+
   * PB2,PB6,PD11,PD12,PE2,PD13  (H7Ax, H7Bx QUAD on OCTO) NUCLEO-H7A3
     *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q64/W25Q64_STM32H7AX-CUSTOM12.FLM
 
