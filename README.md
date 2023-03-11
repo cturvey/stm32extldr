@@ -99,6 +99,13 @@
      * IS25LP256D - Pending
      * IS25LP512M - Pending
      * IS25LP512MG - Pending
+     
+   * Infineon
+     * S25FL512S
+     * S25HL512T
+     * S25HL01GT - Pending Parts/Samples
+     * S25HL02GT (2X DIE) - Pending Parts/Samples
+     * S25HL04GT (4X DIE) - Pending Parts/Samples
 
 ## H7 Platforms (OCTO)
 
