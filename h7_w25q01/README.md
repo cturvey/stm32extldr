@@ -12,7 +12,7 @@ The pin usage here is reported in the naming
   *  PB2,PB6  PF8,PF9,PF7,PF6 (CUSTOM1)
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q01/CLIVEONE-W25Q01_STM32H7XX-PB2-PB6-PF8-PF9-PF7-PF6.stldr
   *  PB2,PB6 PD11,PF9,PE2,PF6 (CUSTOM2)
-     *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q01/CLIVEONE-W2501_STM32H7XX-PB2-PB6-PD11-PF9-PE2-PF6.stldr
+     *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q01/CLIVEONE-W25Q01_STM32H7XX-PB2-PB6-PD11-PF9-PE2-PF6.stldr
   *  PB2,PB6 PF8,PF9,PF7,PF6 (CUSTOM3)
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q01/CLIVEONE-W25Q01_STM32H7XX-PB2-PB6-PF8-PF9-PF7-PF6.stld r
   *  PB2,PB6 PD11,PD12,PE2,PD13 (CUSTOM4)
