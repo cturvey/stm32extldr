@@ -31,6 +31,7 @@ Support for Winbond W25Q64 compatible parts on STM32H7xx platforms
     *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q64/W25Q64_STM32H7XX-CUSTOM23.FLM
    
   * PB2,PB6,PD11,PD12,PE2,PD13  (H7Ax, H7Bx QUAD on OCTO) NUCLEO-H7A3 / FK7B0M2-VBT6 / H7B0 MINIMUM BOARD
+    *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q64/CLIVEONE-W25Q64_STM32H7AX-PB2-PB6-PD11-PD12-PE2-PD13.stldr
     *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q64/W25Q64_STM32H7AX-CUSTOM12.FLM
 
   * PB2,PC11,PD11,PD12,PE2,PD13  (H7Ax, H7Bx QUAD on OCTO) NUCLEO-H7A3 w/PC11
