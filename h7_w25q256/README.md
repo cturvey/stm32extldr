@@ -36,8 +36,12 @@ The pin usage here is reported in the naming
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q256/CLIVEONE-W25Q256_STM32H7XX-PB2-PB10-PF8-PF9-PE2-PD13.stldr
   *  PB2,PC11 PF8,PF9,PE2,PD13 (CUSTOM13)
   *  PB2,PG6 PD11,PD12,PA7,PD13 (CUSTOM14)
+  *  PB2,PB6,PC3,PD12,PE2,PD13 (CUSTOM15)
+  *  PF10,PC11,PF8,PF9,PE2,PF6 (CUSTOM16)
   *  PB2,PG6 PF8,PF9,PF7,PF6 (CUSTOM17)
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q256/CLIVEONE-W25Q256_STM32H7XX-PB2-PG6-PF8-PF9-PF7-PF6.stldr
+     *  (H72X OCTO) https://github.com/cturvey/stm32extldr/blob/main/h7_w25q256/CLIVEONE-W25Q256_STM32H72X-PB2-PG6-PF8-PF9-PF7-PF6.stldr
+     *  (H7AX OCTO) https://github.com/cturvey/stm32extldr/blob/main/h7_w25q256/W25Q256_STM32H7AX-CUSTOM17.FLM
   *  PB2,PB6 PC9,PC10,PE2,PD13 (CUSTOM18)
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q256/CLIVEONE-W25Q256_STM32H7XX-PB2-PB6-PC9-PC10-PE2-PD13.stldr
   *  PB2,PG6 PD11,PF9,PF7,PF6 (CUSTOM19)
