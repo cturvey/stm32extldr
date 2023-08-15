@@ -182,8 +182,8 @@
   * Winbond
     * W25Q64 - Pending Test
     * W25Q128 - Tentitive/Available
-    * W25Q256 - Pending Test
-    * W25Q512 - Pending Test
+    * W25Q256
+    * W25Q512
     * W25Q01 (2x DIE) - Pending Test
     * W25Q02 (4x DIE) - Pending Test
 
