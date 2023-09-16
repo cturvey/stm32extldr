@@ -36,7 +36,7 @@
     * N25Q32 - Pending
     * N25Q064 - Pending
     * MT25QL128A / N25Q128A
-    * MT25QL256A
+    * MT25QL256A / N25Q256A
     * MT25QL512A (QL 3V / QU 1.8V)
     * MT25QL01GB / N25Q00AA - Pending
     * MT25QL02GC - Pending
@@ -77,7 +77,7 @@
 
   * Micron
     * MT25QL128A / N25Q128A
-    * MT25QL256A
+    * MT25QL256A / N25Q256A
     * MT25QL512A
     * MT25QL01GB / N25Q00AA - Pending
     * MT25QL02GC - Pending
@@ -144,8 +144,8 @@
     * MX66L2G - Pending
 
   * Micron
-    * MT25QL128A - Pending
-    * MT25QL256A - Pending
+    * MT25QL128A / N25Q128A - Pending
+    * MT25QL256A / N25Q256A - Pending
     * MT25QL512A - Pending
     * MT25QL01GB / N25Q00AA - Pending
     * MT25QL02GC - Pending
@@ -187,7 +187,7 @@
     * W25Q01 (2x DIE) - Pending Test
     * W25Q02 (4x DIE) - Pending Test
 
-### Are you interested in other platforms? F4 L5 ?? Custom boards, different pinning ??
+### Are you interested in other platforms? F4 L5 ?? Custom boards, different pinning ?? Porting is not difficult, but is demand driven.
  
  sourcer32@gmail.com
  
@@ -195,4 +195,5 @@
  
   *  https://paypal.me/cliveone (Preferred)
   *  https://www.venmo.com/u/cliveone
-  *  Amazon Gift Cards 
+  *  Amazon Gift Cards
+  *  Google Pay (Probably) 
