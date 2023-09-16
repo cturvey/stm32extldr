@@ -1,7 +1,7 @@
-# Micron MT25Q128
-### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts and effort
+# Micron MT25Q128 (128Mbit / 16MB)
+### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts, fixtures and effort. Suggested $80-100 USD
 
-Support for Micron MT25Q128A / MT25QL128A compatible parts on STM32H7xx platforms
+Support for Micron MT25Q128A / MT25QL128A / N25Q128 compatible parts on STM32H7xx platforms
 
 The pin usage here is reported in the custom naming
 
@@ -29,4 +29,5 @@ This is a tentitve build awaiting more testing/feedback
 Adding in some Keil .FLM to the experiment here, make sure at least 52KB RAM selected for algorithms, and .FLM filename is 31 characters or less
 
  sourcer32@gmail.com
- https://paypal.me/cliveone
+  *  https://paypal.me/cliveone (Preferred)
+  *  https://www.venmo.com/u/cliveone
