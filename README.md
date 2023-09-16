@@ -20,7 +20,7 @@
 
 #### Micron MT35XL256, MT35XU512/MT35XL512, MT35XU01G/MT35XL01G, MT35XU02G/MT35XL02G devices (XL 3V/XU 1.8V) (OCTO)
 
-#### Micron N25Q512, N25Q00, older 256Mb/32MB die based device (QUAD)
+#### Micron N25Q512A, N25Q00AA, older 256Mb/32MB die based device (QUAD)
 
 #### BGA24 ZIF Socket(s) in hand 6x8mm 5x5 and 4x6 configurations, NUCLEO-144 plug-in fixtures built
 
@@ -37,7 +37,7 @@
     * N25Q064 - Pending
     * MT25QL128A / N25Q128A
     * MT25QL256A / N25Q256A
-    * MT25QL512A (QL 3V / QU 1.8V)
+    * MT25QL512A (QL 3V / QU 1.8V) / N25Q512A
     * MT25QL01GB / N25Q00AA - Pending
     * MT25QL02GC - Pending
     * MT35XL256 - Pending
@@ -78,7 +78,7 @@
   * Micron
     * MT25QL128A / N25Q128A
     * MT25QL256A / N25Q256A
-    * MT25QL512A
+    * MT25QL512A / N25Q512A
     * MT25QL01GB / N25Q00AA - Pending
     * MT25QL02GC - Pending
     * MT35XL256 - Tentitive/Available
@@ -146,7 +146,7 @@
   * Micron
     * MT25QL128A / N25Q128A - Pending
     * MT25QL256A / N25Q256A - Pending
-    * MT25QL512A - Pending
+    * MT25QL512A / N25Q512A - Pending
     * MT25QL01GB / N25Q00AA - Pending
     * MT25QL02GC - Pending
     * MT35XL512 - Pending
@@ -186,6 +186,13 @@
     * W25Q512
     * W25Q01 (2x DIE) - Pending Test
     * W25Q02 (4x DIE) - Pending Test
+
+  * Micron
+    * MT25QL128A / N25Q128A - Pending
+    * MT25QL256A / N25Q256A - Pending
+    * MT25QL512A / N25Q512A - Pending
+    * MT25QL01GB / N25Q00AA - Pending
+    * MT25QL02GC - Pending
 
 ### Are you interested in other platforms? F4 L5 ?? Custom boards, different pinning ?? Porting is not difficult, but is demand driven.
  
