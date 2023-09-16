@@ -14,6 +14,9 @@ This is a tentitve build awaiting more testing/feedback
  * PB2,PG6,PF8,PF9,PF7,PF6 (CUSTOM17) RIVERDI
    *  https://github.com/cturvey/stm32extldr/blob/main/h7_mt25q256/CLIVEONE-MT25QL256A_STM32H7XX-PB2-PG6-PF8-PF9-PF7-PF6.stldr
 
+ * PF10,PG6,PF8,PF9,PF7,PF6 (CUSTOM23)
+   *  https://github.com/cturvey/stm32extldr/blob/main/h7_mt25q256/CLIVEONE-MT25QL256A_STM32H7XX-PF10-PG6-PF8-PF9-PF7-PF6.stldr
+
  * PF10,PB6,PF8,PF9,PF7,PF6 (CUSTOM25)
    *  https://github.com/cturvey/stm32extldr/blob/main/h7_mt25q256/CLIVEONE-MT25QL256A_STM32H7XX-PF10-PB6-PF8-PF9-PF7-PF6.stldr
 
