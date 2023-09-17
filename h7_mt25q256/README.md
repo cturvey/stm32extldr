@@ -7,9 +7,15 @@ The pin usage here is reported in the naming
 
 This is a tentitve build awaiting more testing/feedback
 
+ * PB2,PB6,PD11,PD12,PE2,PD13 (CUSTOM4) NUCLEO-H743ZI
+   * https://github.com/cturvey/stm32extldr/blob/main/h7_mt25q256/CLIVEONE-MT25QL256A_STM32H7XX-PB2-PB6-PD11-PD12-PE2-PD13.stldr
+
  * PF10,PG6,PD11,PF9,PF7,PF6 (CUSTOM9) H745-DISCO
    *  https://github.com/cturvey/stm32extldr/blob/main/h7_mt25q256/CLIVEONE-MT25Q256_STM32H7XX-PF10-PG6-PD11-PF9-PF7-PF6.stldr
    *  https://github.com/cturvey/stm32extldr/blob/main/h7_mt25q256/CLIVEONE-MT25Q256_STM32H7XX-PF10-PG6-PD11-PF9-PF7-PF6.flm
+
+ * PB2,PG6,PD11,PD12,PE2,PD13 (CUSTOM11) NUCLEO-H743ZI2
+   * https://github.com/cturvey/stm32extldr/blob/main/h7_mt25q256/CLIVEONE-MT25QL256A_STM32H7XX-PB2-PG6-PD11-PD12-PE2-PD13.stldr
 
  * PB2,PG6,PF8,PF9,PF7,PF6 (CUSTOM17) RIVERDI
    *  https://github.com/cturvey/stm32extldr/blob/main/h7_mt25q256/CLIVEONE-MT25QL256A_STM32H7XX-PB2-PG6-PF8-PF9-PF7-PF6.stldr
