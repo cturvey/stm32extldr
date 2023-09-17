@@ -76,6 +76,7 @@
     * W25Q02  - Pending
 
   * Micron
+    * N25Q032A - Pending
     * N25Q064A 
     * MT25QL128A / N25Q128A
     * MT25QL256A / N25Q256A
@@ -145,6 +146,7 @@
     * MX66L2G - Pending
 
   * Micron
+    * N25Q032A - Pending
     * N25Q064A - Pending
     * MT25QL128A / N25Q128A - Pending
     * MT25QL256A / N25Q256A - Pending
@@ -190,6 +192,8 @@
     * W25Q02 (4x DIE) - Pending Test
 
   * Micron
+    * N25Q032A - Pending
+    * N25Q064A - Pending
     * MT25QL128A / N25Q128A - Pending
     * MT25QL256A / N25Q256A - Pending
     * MT25QL512A / N25Q512A - Pending
