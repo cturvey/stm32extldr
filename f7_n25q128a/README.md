@@ -1,7 +1,7 @@
-# Micron MT25Q128 - STM32F7
+# Micron MT25Q128 (128Mb / 16MB) - STM32F7
 ### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts, fixtures and effort. Suggested $80-100 USD
 
-Support for Micron MT25Q128A / MT25QL128A compatible parts on STM32F7xx platforms
+Support for Micron MT25Q128A / MT25QL128A / N25Q128A compatible parts on STM32F7xx platforms
 
 The pin usage here is reported in the custom naming
 
@@ -19,4 +19,5 @@ OLD (DEPRECATED)
 These are a tentitve build awaiting more testing/feedback, I do have Keil .FLM loaders working too
 
  sourcer32@gmail.com
- https://paypal.me/cliveone
+  *  https://paypal.me/cliveone (Preferred)
+  *  https://www.venmo.com/u/cliveone
