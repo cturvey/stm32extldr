@@ -38,12 +38,14 @@ The pin usage here is reported in the naming (sorry, bit of an odd mix)
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/CLIVEONE-W25Q128_STM32H7XX-PF10-PG6-PD11-PF9-PF7-PF6.stldr
   *  PF10,PG6 PF8,PF9,PF7,PF6
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/CLIVEONE-W25Q128_STM32H7XX-PF10-PG6-PF8-PF9-PF7-PF6.stldr
-  *  PB2,PB10 PF8,PF9,PE2,PD13
+  *  PB2,PB10 PF8,PF9,PE2,PD13 (CUSTOM12)
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/W25Q128_STM32H7XX-CUSTOM12.FLM
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/CLIVEONE-W25Q128_STM32H7XX-PB2-PB10-PF8-PF9-PE2-PD13.stldr
-  * PF10,PG6 PD11,PD12,PE2,PD13
+  *  PF10,PG6 PD11,PD12,PE2,PD13
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/CLIVEONE-W25Q128_STM32H7XX-PF10-PG6-PD11-PD12-PE2-PD13.stldr
-     
+  *  PB2,PC11 PE7,PE8,PE9,PE10 (CUSTOM27)
+     *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/W25Q128_STM32H7XX-CUSTOM27.FLM
+
   *  PB2,PB6,PC3,PD12,PE2,PD13  (H7Ax, H7Bx QUAD on OCTO)  
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/CLIVEONE-W25Q128_STM32H7AX-PB2-PB6-PC3-PD12-PE2-PD13.stldr
   *  PB2,PG6,PD11,PD12,PA7,PD13  (H7Ax, H7Bx QUAD on OCTO)
@@ -55,5 +57,9 @@ These are tentitve builds awaiting more testing/feedback
 
 For Keil .FLM make sure at least 52KB RAM selected for algorithms, and .FLM filename is 31 characters or less
 
+The RAM available for the Flash Algorithm should be as large as possible to accomodate the size of the loader
+https://github.com/cturvey/stm32extldr/blob/main/f7_w25q128/KeilFLMSetRamSize.jpg
+
  sourcer32@gmail.com
- https://paypal.me/cliveone
+  *  https://paypal.me/cliveone (Preferred)
+  *  https://www.venmo.com/u/cliveone
