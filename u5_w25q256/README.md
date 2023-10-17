@@ -12,6 +12,8 @@ These are tentitve builds awaiting more testing/feedback
 
 For Keil .FLM make sure at least 52KB RAM selected for algorithms, and .FLM filename is 31 characters or less
 
-* sourcer32@gmail.com
+sourcer32@gmail.com
 * https://paypal.me/cliveone
 * https://www.venmo.com/u/cliveone
+* Amazon or Starbucks Gift Cards
+* Google Pay (Probably)
