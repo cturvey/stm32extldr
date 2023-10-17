@@ -180,7 +180,15 @@
 
   * Macronix
     * MX25L64 (GFX Board)
-    
+
+## L5 Platforms
+
+   * On Demand
+     
+## H5 Platforms
+
+   * On Demand
+     
 ## U5 Platforms
 
   * Winbond
@@ -191,6 +199,9 @@
     * W25Q01 (2x DIE) - Pending Test
     * W25Q02 (4x DIE) - Pending Test
 
+  * Macronix
+    * On Demand
+      
   * Micron
     * N25Q032A - Pending
     * N25Q064A - Pending
@@ -200,7 +211,7 @@
     * MT25QL01GB / N25Q00AA - Pending
     * MT25QL02GC - Pending
 
-### Are you interested in other platforms? F4 L5 ?? Custom boards, different pinning ?? Porting is not difficult, but is demand driven.
+### Are you interested in other platforms? F4 L5 H5 ?? Custom boards, different pinning ?? Porting is not difficult, but is demand driven.
  
  sourcer32@gmail.com
  
@@ -209,4 +220,5 @@
   *  https://paypal.me/cliveone (Preferred)
   *  https://www.venmo.com/u/cliveone
   *  Amazon Gift Cards
+  *  Starbucks Gift Cards
   *  Google Pay (Probably) 
