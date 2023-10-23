@@ -30,6 +30,16 @@
 
 #### Pending generally means I've got 95% percent of it done, but need to allot time to porting to specific board/pin combos, and then construct a directory and upload it.
 
+## F4 Platforms
+
+  * On Demand
+   
+  * Winbond
+    * W25Q64
+    * W25Q128 - Pending
+    * W25Q256 - Pending
+    * W25Q512 - Pending
+
 ## F7 Platforms
 
   * Micron
