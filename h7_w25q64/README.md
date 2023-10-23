@@ -43,5 +43,5 @@ Support for Winbond W25Q64 compatible parts on STM32H7xx platforms
     *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q64/W25Q64_STM32H7AX-CUSTOM29.FLM
 
  sourcer32@gmail.com
-  https://paypal.me/cliveone
-  https://www.venmo.com/u/cliveone
+  *  https://paypal.me/cliveone
+  *  https://www.venmo.com/u/cliveone
