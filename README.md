@@ -195,9 +195,9 @@
 
    * On Demand
      
-## H5 Platforms
+## H5 Platforms (XSPI)
 
-   * On Demand
+   * On Demand - Tentitive Build H563
      
 ## U5 Platforms
 
