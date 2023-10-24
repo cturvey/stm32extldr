@@ -1,4 +1,6 @@
 // H563 PIN LIST
+//  https://www.st.com/resource/en/datasheet/stm32h562ag.pdf
+//  https://www.st.com/resource/en/datasheet/stm32h573ai.pdf
 //
 // PA1:AF6   OCTOSPI1_DQS
 // PA1:AF9   OCTOSPI1_IO3
@@ -36,7 +38,7 @@
 // PD7:AF10  OCTOSPI1_IO7
 // PD11:AF9  OCTOSPI1_IO0
 // PD12:AF9  OCTOSPI1_IO1
-// PD13:AD9  OCTOSPI1_IO2
+// PD13:AF9  OCTOSPI1_IO3
 //
 // PE2:AF9   OCTOSPI1_IO2
 // PE7:AF10  OCTOSPI1_IO4
