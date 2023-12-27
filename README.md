@@ -56,7 +56,9 @@
     * MT35XL02G - Pending
  
   * Macronix
-    * MX25L512G
+    * MX25L25645G
+    * MX25L51245G
+    * MX25L1G
     * MX25L3233F - Pending
     * MX25L6433F - Pending
     * MX66L1G45G - Pending
@@ -99,7 +101,10 @@
     * MT35XL02G (4x DIE) - Pending
 
    * Macronix
+     * MX25L12845G
+     * MX25L25645G
      * MX25L51245G (QUAD SPI)
+     * MX25L1G
      * MX25L3233F - Pending
      * MX25L6433F - Pending
      * MX66L512 - Pending
