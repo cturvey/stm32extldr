@@ -56,6 +56,9 @@
     * MT35XL02G - Pending
  
   * Macronix
+    * MX25L3233F - Pending
+    * MX25L6433F - Pending
+    * MX25L12845G
     * MX25L25645G
     * MX25L51245G
     * MX25L1G
@@ -202,13 +205,27 @@
      
 ## H5 Platforms (XSPI)
 
-   * On Demand - Tentitive Build H563
-     
+  * On Demand - Tentitive Build H563
+
+  * Winbond - Initial Ports Available
+    * W25Q32
+    * W25Q64
+    * W25Q128
+    * W25Q256
+    * W25Q512
+
+  * Macronix - Initial Port
+    * MX25L32
+    * MX25L64
+    * MX25L128
+    * MX25L256
+
 ## U5 Platforms
 
-  * Winbond
-    * W25Q64 - Pending Test
-    * W25Q128 - Tentitive/Available
+  * Winbond - Initial Ports Available
+    * W25Q32
+    * W25Q64
+    * W25Q128
     * W25Q256
     * W25Q512
     * W25Q01 (2x DIE) - Pending Test
@@ -226,7 +243,7 @@
     * MT25QL01GB / N25Q00AA - Pending
     * MT25QL02GC - Pending
 
-### Are you interested in other platforms? F4 L5 H5 ?? Custom boards, different pinning ?? Porting is not difficult, but is demand driven.
+### Are you interested in other platforms? F4 L5 H5 U5 ?? Custom boards, different pinning ?? Porting is not difficult, but is demand driven.
  
  sourcer32@gmail.com
  
