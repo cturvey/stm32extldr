@@ -13,8 +13,14 @@ The pin usage here is reported in the custom naming
 
   *  CUSTOM1 PB2, PB6, PC11, PF8, PF9, PF7, PF6, PH2, PH3, PG9, PG14  
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_mt25tl01g/MT25TL01G_STM32H743I-PB2-PB6-PC11-PF8-PF9-PF7-PF6-PH2-PH3-PG9-PG14.stldr
-       
-  *  CUSTOM24 PB2, PG6, PD11, PF8, PF9, PF7, PF6, PH2, PH3, PG9, PG14 (KEIL/FLM)
+
+  *  CUSTOM11 PF10, PG6, PD11, PF9, PF7, PF6, PH2, PH3, PG9, PG14 (STM32H745I-DISCO)
+     *  https://github.com/cturvey/stm32extldr/blob/main/h7_mt25ql512a/CLIVEONE-MT25QL512A_STM32H745I-DISCO-DUAL.flm
+
+  *  CUSTOM22 PF10, PG6, PD11, PD12, PE2, PF6, PH2, PH3, PG9, PG14 (KEIL/FLM)
+     *  https://github.com/cturvey/stm32extldr/blob/main/h7_mt25ql512a/MT25QL512A_STM32H7XX-CUSTOM22.FLM
+  
+  *  CUSTOM24 PB2, PG6, PD11, PF9, PF7, PF6, PH2, PH3, PG9, PG14 (KEIL/FLM)
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_mt25ql512a/MT25QL512A_STM32H7XX-CUSTOM24.FLM
 
 This is a tentitve build awaiting more testing/feedback
