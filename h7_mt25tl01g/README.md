@@ -13,8 +13,16 @@ The pin usage here is reported in the custom naming
 
   *  CUSTOM1 PB2, PB6, PC11, PF8, PF9, PF7, PF6, PH2, PH3, PG9, PG14  
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_mt25tl01g/MT25TL01G_STM32H743I-PB2-PB6-PC11-PF8-PF9-PF7-PF6-PH2-PH3-PG9-PG14.stldr
+       
+  *  CUSTOM24 PB2, PG6, PD11, PF8, PF9, PF7, PF6, PH2, PH3, PG9, PG14 (KEIL/FLM)
+     *  https://github.com/cturvey/stm32extldr/blob/main/h7_mt25ql512a/MT25QL512A_STM32H7XX-CUSTOM24.FLM
 
 This is a tentitve build awaiting more testing/feedback
 
+Adding in some Keil .FLM to the experiment here, make sure at least 52KB RAM selected for algorithms, and .FLM filename is 31 characters or less
+
  sourcer32@gmail.com
- https://paypal.me/cliveone
+  * https://paypal.me/cliveone (Preferred)
+  * https://www.venmo.com/u/cliveone
+  * Amazon or Starbucks Gift Cards
+  * Google Pay (Probably)
