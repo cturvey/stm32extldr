@@ -11,8 +11,8 @@ The pin usage here is reported in the naming
   *  PF10,PB10 PF8,PF9,PF7,PF6 (CUSTOM99)
      *  https://github.com/cturvey/stm32extldr/blob/main/h5_w25q128/CLIVEONE-W25Q128_STM32H563-PF10-PB10-PF8-PF9-PF7-PF6.stldr
 
-  *  PB2,PE11 PC3,PD12,PC3,PD13
-     *  https://github.com/cturvey/stm32extldr/blob/main/h5_w25q128/CLIVEONE-W25Q128_STM32H563-PB2-PE11-PC3-PD12-PC3-PD13.stldr
+  *  PB2,PE11 PC3,PD12,PC2,PD13
+     *  https://github.com/cturvey/stm32extldr/blob/main/h5_w25q128/CLIVEONE-W25Q128_STM32H563-PB2-PE11-PC3-PD12-PC2-PD13.stldr
 
 Adding in some Keil .FLM to the experiment here, make sure at least 52KB RAM selected for algorithms, and .FLM filename is 31 characters or less
 
