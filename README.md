@@ -2,6 +2,8 @@
 ## STM32 External Loader Project (Keil .FLM, STMicro .STLDR)
 ### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts, fixtures and effort. Suggested $80-100 USD
 
+### Mostly demand driven, if you need something specific, inquire..
+
 ## Work-In-Progress
 
 #### Support for QSPI parts on OCTOSPI platforms on L4(+), H72x/3x and H7Ax/Bx platforms
@@ -77,7 +79,7 @@
     * W25Q01 (2x DIE)
     * W25Q02 (4x DIE) - From Docs
  
-## H7 Platforms (QUAD)
+## H7 Platforms (QUAD) [74x,75x]
 
   * Winbond
     * W25Q080 - Pending
@@ -86,7 +88,7 @@
     * W25Q64
     * W25Q128
     * W25Q256
-    * W25Q512 - Pending
+    * W25Q512
     * W25Q01  - Pending BSP/Test working
     * W25Q02  - Pending
 
@@ -127,19 +129,27 @@
      * S25HL02GT (2X DIE) - Pending Parts/Samples
      * S25HL04GT (4X DIE) - Pending Parts/Samples
 
-## H7 Platforms (OCTO)
+## H7 Platforms (OCTO) [72x,73x,7Ax,7Bx]
 
   * Macronix
+    * MX25Lxxx - Support available for QUAD parts
     * MX25LM51245G (OCTO SPI H7A3/7B3)
     * MX66LM1G45G (2x DIE) - Pending (OCTO SPI)
     * MX66LM2G45G (4x DIE) - Pending (OCTO SPI)
 
   * Micron
+    * MT25QLxxx - Support available for QUAD parts
     * MT35XL256 - Tentitive/Available
     * MT35XL512
     * MT35XL01G (2x DIE) - Pending
     * MT35XL02G (4x DIE) - Pending
 
+  * Winbond (QUAD on OCTO)
+    * W25Q64
+    * W25Q128
+    * W25Q256
+    * W25Q512
+   
 ## L4 Platforms (QUAD)
 
   * Winbond
