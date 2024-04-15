@@ -26,11 +26,20 @@ The pin usage here is reported in the custom naming
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_mt25q128/MT25Q128_STM32H7XX-CUSTOM10.FLM
   *  CUSTOM11 PB2, PG6, PD11, PD12, PE2, PD13
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_mt25q128/CLIVEONE-N25Q128A_STM32H7XX-PB2-PB6-PD11-PD12-PE2-PD13.stldr
-  
+  *  CUSTOM26 PB2, PC11, PH2, PH3, PG9, PG14
+     *  https://github.com/cturvey/stm32extldr/blob/main/h7_mt25q128/CLIVEONE-MT25QL128_STM32H7XX-MNAPI.stldr
+     *  https://github.com/cturvey/stm32extldr/blob/main/h7_mt25q128/CLIVEONE-MT25QL128A_STM32H7XX-PB2-PC11-PH2-PH3-PG9-PG14.stldr
+
 This is a tentitve build awaiting more testing/feedback
 
 Adding in some Keil .FLM to the experiment here, make sure at least 52KB RAM selected for algorithms, and .FLM filename is 31 characters or less
 
  sourcer32@gmail.com
+
+##  Support
+ 
   *  https://paypal.me/cliveone (Preferred)
   *  https://www.venmo.com/u/cliveone
+  *  Amazon Gift Cards
+  *  Starbucks Gift Cards
+  *  Google Pay (Probably) 
