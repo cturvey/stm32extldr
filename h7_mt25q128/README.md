@@ -29,6 +29,7 @@ The pin usage here is reported in the custom naming
   *  CUSTOM26 PB2, PC11, PH2, PH3, PG9, PG14
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_mt25q128/CLIVEONE-MT25QL128_STM32H7XX-MNAPI.stldr
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_mt25q128/CLIVEONE-MT25QL128A_STM32H7XX-PB2-PC11-PH2-PH3-PG9-PG14.stldr
+     *  https://github.com/cturvey/stm32extldr/blob/main/h7_mt25q128/MT25Q128_STM32H7XX-CUSTOM26.FLM
 
 This is a tentitve build awaiting more testing/feedback
 
