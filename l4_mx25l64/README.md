@@ -10,4 +10,12 @@ The pin usage here is reported in the naming
 Adding in some Keil .FLM to the experiment here, make sure at least 52KB RAM selected for algorithms, and .FLM filename is 31 characters or less
 
  sourcer32@gmail.com
- https://paypal.me/cliveone
+ 
+##  Support
+ 
+  *  https://paypal.me/cliveone (Preferred)
+  *  https://www.venmo.com/u/cliveone
+  *  https://buymeacoffee.com/cliveone
+  *  Amazon Gift Cards
+  *  Starbucks Gift Cards
+  *  Google Pay (Probably) 
