@@ -17,9 +17,11 @@ For Keil .FLM make sure at least 52KB RAM selected for algorithms, and .FLM file
 
  sourcer32@gmail.com
  
- ## https://paypal.me/cliveone (Preferred)
-  
- ## Amazon Gift Cards
-
- ## https://www.venmo.com/u/cliveone
+##  Support
  
+  *  https://paypal.me/cliveone (Preferred)
+  *  https://www.venmo.com/u/cliveone
+  *  https://buymeacoffee.com/cliveone
+  *  Amazon Gift Cards
+  *  Starbucks Gift Cards
+  *  Google Pay (Probably) 
