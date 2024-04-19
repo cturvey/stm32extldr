@@ -5,5 +5,12 @@ Support for Winbond W25Q16 compatible parts on STM32H7xx platforms
 
 
  sourcer32@gmail.com
-  *  https://paypal.me/cliveone
+ 
+##  Support
+ 
+  *  https://paypal.me/cliveone (Preferred)
   *  https://www.venmo.com/u/cliveone
+  *  https://buymeacoffee.com/cliveone
+  *  Amazon Gift Cards
+  *  Starbucks Gift Cards
+  *  Google Pay (Probably) 
