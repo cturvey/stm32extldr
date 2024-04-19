@@ -15,4 +15,12 @@ This fork could be rebuilt for W25Q32, W25Q64, W25Q128, W25Q256, W25Q01 and W25Q
 Adding in some Keil .FLM to the experiment here, make sure at least 52KB RAM selected for algorithms, and .FLM filename is 31 characters or less
 
  sourcer32@gmail.com
- https://paypal.me/cliveone
+ 
+##  Support
+ 
+  *  https://paypal.me/cliveone (Preferred)
+  *  https://www.venmo.com/u/cliveone
+  *  https://buymeacoffee.com/cliveone
+  *  Amazon Gift Cards
+  *  Starbucks Gift Cards
+  *  Google Pay (Probably) 
