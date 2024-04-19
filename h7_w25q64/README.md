@@ -49,5 +49,12 @@ Support for Winbond W25Q64 compatible parts on STM32H7xx platforms
     *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q64/CLIVEONE-W25Q64_STM32H72X-PF10-PG6-PF8-PF9-PF7-PF6.stldr
 
  sourcer32@gmail.com
-  *  https://paypal.me/cliveone
+ 
+##  Support
+ 
+  *  https://paypal.me/cliveone (Preferred)
   *  https://www.venmo.com/u/cliveone
+  *  https://buymeacoffee.com/cliveone
+  *  Amazon Gift Cards
+  *  Starbucks Gift Cards
+  *  Google Pay (Probably) 
