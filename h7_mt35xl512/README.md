@@ -21,4 +21,12 @@ Work in progress
 Have parts working on NUCLEO-H743ZI (LDO), and NUCLEO-H7A3ZI-Q (SMPS). Functional issues if correct powering method is not used.
 
  sourcer32@gmail.com
- https://paypal.me/cliveone
+ 
+##  Support
+ 
+  *  https://paypal.me/cliveone (Preferred)
+  *  https://www.venmo.com/u/cliveone
+  *  https://buymeacoffee.com/cliveone
+  *  Amazon Gift Cards
+  *  Starbucks Gift Cards
+  *  Google Pay (Probably) 
