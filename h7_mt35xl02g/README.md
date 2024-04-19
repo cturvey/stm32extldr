@@ -10,5 +10,13 @@ Place Holder, awaiting test parts
 
 If you need a test build provide board details on STM32 chip, pins and power supply
 
-sourcer32@gmail.com
-https://paypal.me/cliveone
+ sourcer32@gmail.com
+ 
+##  Support
+ 
+  *  https://paypal.me/cliveone (Preferred)
+  *  https://www.venmo.com/u/cliveone
+  *  https://buymeacoffee.com/cliveone
+  *  Amazon Gift Cards
+  *  Starbucks Gift Cards
+  *  Google Pay (Probably) 
