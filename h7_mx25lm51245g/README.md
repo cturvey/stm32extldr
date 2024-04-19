@@ -20,16 +20,30 @@ https://github.com/cturvey/stm32extldr/blob/main/h7_mx25lm51245g/MX25LM51245GMI0
 
   *  PB2,PB10,PC5 PD11,PD12,PE2,PD13 PC1,PC2,PC3,PD7
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_mx25lm51245g/CLIVEONE-MX25LM51245G_STM32H7X3-PB2-PB10-PC5-PD11-PD12-PE2-PD13-PC1-PC2-PC3-PD7.stldr
+
   *  PB2,PB10,PC5 PD11,PF9,PF7,PF6 PC1,PH3,PD6,PG14   
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_mx25lm51245g/CLIVEONE-MX25LM51245G_STM32H7X3-PB2-PG6-PC5-PD11-PF9-PF7-PF6-PC1-PH3-PD6-PG14.stldr
+
   *  PB2,PG6,PC5 PD11,PF9,PF7,PF6 PC1,PH3,PG9,PD7   
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_mx25lm51245g/CLIVEONE-MX25LM51245G_STM32H7X3-PB2-PG6-PC5-PD11-PF9-PF7-PF6-PC1-PH3-PG9-PD7.stldr
+       
   *  PB2,PG6,PC5 PD11,PF9,PF7,PF6 PC1,PH3,PG9,PG14   
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_mx25lm51245g/CLIVEONE-MX25LM51245G_STM32H7X3-PB2-PG6-PC5-PD11-PF9-PF7-PF6-PC1-PH3-PG9-PG14.stldr
+
+   *  PB2,PB6,PA1 PF8,PF9,PF7,PF6 PD4,PC2,PC3,PD7
+      *  https://github.com/cturvey/stm32extldr/blob/main/h7_mx25lm51245g/CLIVEONE-MX25LM51245G_STM32H7X3-PB2-PB6-PA1-PF8-PF9-PF7-PF6-PD4-PC2-PC3-PD7.stldr
+      *  https://github.com/cturvey/stm32extldr/blob/main/h7_mx25lm51245g/MX25LM51245G_STM32H7A3I-MNAPI.flm
 
 These are tentitve builds awaiting more testing/feedback
 
 For Keil .FLM make sure at least 52KB RAM selected for algorithms, and .FLM filename is 31 characters or less
 
  sourcer32@gmail.com
- https://paypal.me/cliveone
+ 
+##  Support
+ 
+  *  https://paypal.me/cliveone (Preferred)
+  *  https://www.venmo.com/u/cliveone
+  *  Amazon Gift Cards
+  *  Starbucks Gift Cards
+  *  Google Pay (Probably) 
