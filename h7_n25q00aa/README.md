@@ -4,5 +4,12 @@
 Currently have some 1.8V samples running on STM32U5 systems, 128MB (1Gb) via 4x 32MB die, relatively slow, 116 second erase per die
 
  sourcer32@gmail.com
+ 
+##  Support
+ 
   *  https://paypal.me/cliveone (Preferred)
   *  https://www.venmo.com/u/cliveone
+  *  https://buymeacoffee.com/cliveone
+  *  Amazon Gift Cards
+  *  Starbucks Gift Cards
+  *  Google Pay (Probably) 
