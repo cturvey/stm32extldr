@@ -13,5 +13,12 @@ This is a tentitve build awaiting more testing/feedback
 These don't get a lot of attention due to ST having examples, and generally using the larger parts
 
  sourcer32@gmail.com
+ 
+##  Support
+ 
   *  https://paypal.me/cliveone (Preferred)
   *  https://www.venmo.com/u/cliveone
+  *  https://buymeacoffee.com/cliveone
+  *  Amazon Gift Cards
+  *  Starbucks Gift Cards
+  *  Google Pay (Probably) 
