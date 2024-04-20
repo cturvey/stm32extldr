@@ -5,8 +5,14 @@ Support for Spansion S25FL256S compatible parts on STM32H7xx platforms
 
 The pin usage here is reported in the naming
    
- * PB2,PB6,PD11,PD12,PE2,PD13 (CUSTOM4) NUCLEO
-   * Pending
+ * PB2,PB6,PD11,PD12,PE2,PD13 (CUSTOM4) NUCLEO H74x / H75x
+   * https://github.com/cturvey/stm32extldr/blob/main/h7_s25sl256/CLIVEONE-S25FL256S_STM32H7XX-PB2-PB6-PD11-PD12-PE2-PD13.stldr
+
+ * PB2,PB10,PD11,PD12,PE2,PD13 (CUSTOM27) H74x / H75x
+   * https://github.com/cturvey/stm32extldr/blob/main/h7_s25sl256/CLIVEONE-S25FL256S_STM32H7XX-PB2-PB10-PD11-PD12-PE2-PD13.stldr
+
+ * PB2,PB10,PD11,PD12,PE2,PD13 (CUSTOM27) H72x / H73x QUAD on OCTO
+   * https://github.com/cturvey/stm32extldr/blob/main/h7_s25sl256/CLIVEONE-S25FL256S_STM32H72X-PB2-PB10-PD11-PD12-PE2-PD13.stldr
 
 These are tentitve builds awaiting more testing/feedback
 
