@@ -5,7 +5,8 @@
      *  (H72x/H73x) https://github.com/cturvey/stm32extldr/blob/main/h7_is25lp128/CLIVEONE-IS25LP128_STM32H72X-PA3-PC11-PC9-PC10-PE2-PA6.stldr
     
   *  PB2,PG6,PD11,PD12,PA7,PD13
-     *  (H72x) https://github.com/cturvey/stm32extldr/blob/main/h7_is25lp128/CLIVEONE-IS25LP128_STM32H72X-PB2-PG6-PD11-PD12-PA7-PD13.stldr
+     *  (H72x/H73x) https://github.com/cturvey/stm32extldr/blob/main/h7_is25lp128/CLIVEONE-IS25LP128_STM32H72X-PB2-PG6-PD11-PD12-PA7-PD13.stldr
+     *  (H7Ax/H7Bx) https://github.com/cturvey/stm32extldr/blob/main/h7_is25lp128/CLIVEONE-IS25LP128_STM32H7AX-PB2-PG6-PD11-PD12-PA7-PD13.stldr
 
 For Keil .FLM make sure at least 52KB RAM selected for algorithms, and .FLM filename is 31 characters or less
 
