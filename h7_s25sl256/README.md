@@ -1,7 +1,7 @@
 # Spansion / Cypress / Infineon S25SL256 (256Mbit / 32MB)
 ### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts, fixtures and effort. Suggested $80-100 USD
 
-Support for Spansion S25FL256S compatible parts on STM32H7xx platforms
+Support for Spansion S25SL256S / S25FL256S compatible parts on STM32H7xx platforms
 
 The pin usage here is reported in the naming
    
