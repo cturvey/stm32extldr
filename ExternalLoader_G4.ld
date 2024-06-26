@@ -3,10 +3,10 @@
 **
 **  File        : ExternalLoader.ld
 **
-**  Abstract    : Linker script for STM32H7xx Device with
-**                2048KByte FLASH, 128KByte RAM
+**  Abstract    : Linker script for STM32G4xx Device with
+**                128KByte RAM
 **
-**  Copyright (c) 2020-2021 Clive One / sourcer32@gmail.com
+**  Copyright (c) 2020-2024 Clive One / sourcer32@gmail.com
 **
 *****************************************************************************
 */
@@ -18,7 +18,7 @@ ENTRY(Init)
 MEMORY
 {
   RAM_INFO (r)   : ORIGIN = 0, LENGTH = 1K
-  RAM_PROG (xrw) : ORIGIN = 0x20000004, LENGTH = 128K-4 /* 0x20000004 for Non-H7 */
+  RAM_PROG (xrw) : ORIGIN = 0x20000004, LENGTH = 128K-4 /* 0x20000004 for Non-H7, 0x24000004 for H7, 0x20003004 for H5 */
 }
 
 /* Define output sections */
