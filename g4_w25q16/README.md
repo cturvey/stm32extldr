@@ -3,6 +3,8 @@
 
 Support for Winbond W25Q16 compatible parts on STM32G4xx platforms
 
+  *  PA3,PA2,PB1,PB0,PA7,PA6
+     *  https://github.com/cturvey/stm32extldr/blob/main/g4_w25q16/CLIVEONE-W25Q16_STM32G47X-PA3-PA2-PB1-PB0-PA7-PA6.stldr
 
  sourcer32@gmail.com
  
