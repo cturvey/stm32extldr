@@ -5,7 +5,7 @@ Support for Macronix MX25L64 compatible parts on STM32G0xx platforms
 
 The pin usage here is reported in the naming
 
-  *  PA0,PA5, PA4,PA3
+  *  PA0,PA5, PA4,PA3 (SPI:SCK,NCS,MOSI,MISO)
      *  https://github.com/cturvey/stm32extldr/blob/main/g0_mx25l6433f/CLIVEONE-MX25L64_STM32G0B0-PA0-PA5-PA4-PA3.stldr
 
 Adding in some Keil .FLM to the experiment here, make sure at least 52KB RAM selected for algorithms, and .FLM filename is 31 characters or less
