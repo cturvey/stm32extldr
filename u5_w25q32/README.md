@@ -6,7 +6,7 @@ Support for Winbond W25Q32 compatible parts on STM32U599 / U5A9 / U545 platforms
 The pin usage here is reported in the naming
 
   *  PF10,PA4,PF8,PF9,PF7,PF6  (U59x, U9Ax QUAD on OCTO)  
-     *  https://github.com/cturvey/stm32extldr/blob/main/u5_w25q64/CLIVEONE-W25Q64_STM32U599-PF10-PA4-PF8-PF9-PF7-PF6.stldr
+     *  https://github.com/cturvey/stm32extldr/blob/main/u5_w25q32/CLIVEONE-W25Q32_STM32U599-PF10-PA4-PF8-PF9-PF7-PF6.stldr
 
 These are tentitve builds awaiting more testing/feedback
 
