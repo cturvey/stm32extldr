@@ -1,4 +1,4 @@
-# Winbond W25Q32 (32Mbit, 2MB)
+# Winbond W25Q32 (32Mbit, 4MB)
 ### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts, fixtures and effort. Suggested $80-100 USD
 
 Support for Winbond W25Q32 compatible parts on STM32U599 / U5A9 / U545 platforms, QUAD device on OCTO
