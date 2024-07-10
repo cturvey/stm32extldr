@@ -1,5 +1,9 @@
-# Macronix MX25L51245G - Quad SPI
+# Macronix MX25L51245G (512 Mbit, 64 MB) - Quad SPI
 ### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts, fixtures and effort. Suggested $80-100 USD
+
+Support for Macronix MX25L512 compatible parts on STM32H723 / H72X / H7Ax / H7Bx platforms, QUAD device on OCTO and STM32H74x / H75x platforms QUAD
+
+The pin usage here is reported in the naming
 
   *  PB2,PG6 PF8,PF9,PE2,PF6
      *  (H723) https://github.com/cturvey/stm32extldr/blob/main/h7_mx25l51245g/CLIVEONE-MX25L512_STM32H723-PB2-PG6-PF8-PF9-PE2-PF6.stldr
