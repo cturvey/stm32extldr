@@ -1,4 +1,4 @@
-# Macronix MX25L6433F STM32H5
+# Macronix MX25L6433F (64 Mbit, 8 MByte) STM32H5
 ### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts, fixtures and effort. Suggested $80-100 USD
 
 Support for Macronix MX25L64 compatible parts on STM32H5xx platforms
