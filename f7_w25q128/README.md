@@ -1,4 +1,4 @@
-# Winbond W25Q128 (128Mbit / 16MB)
+# Winbond W25Q128 (128Mbit / 16MB) STM32F7
 ### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts, fixtures and effort. Suggested $80-100 USD
 
 Tentitive STM32F7 builds for the Winbond W25Q128 / W25QL128 class devices
@@ -23,7 +23,11 @@ The RAM available for the Flash Algorithm should be as large as possible to acco
 https://github.com/cturvey/stm32extldr/blob/main/f7_w25q128/KeilFLMSetRamSize.jpg
 
  sourcer32@gmail.com
+
+ ##  Support
+ 
   *  https://paypal.me/cliveone (Preferred)
   *  https://www.venmo.com/u/cliveone
+  *  https://buymeacoffee.com/cliveone
   *  Amazon Gift Cards
   *  Starbucks Gift Cards
