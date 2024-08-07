@@ -37,6 +37,9 @@
   * On Demand
    
   * Winbond
+    * W25Q80
+    * W25Q16 - Pending
+    * W25Q32 - Pending
     * W25Q64
     * W25Q128 - Pending
     * W25Q256 - Pending
@@ -69,7 +72,7 @@
     * MX66L1G45G - Pending
 
   * Winbond
-    * W25Q080 - Pending
+    * W25Q80 - Pending
     * W25Q16 - Pending
     * W25Q32 - Pending
     * W25Q64
@@ -82,7 +85,7 @@
 ## H7 Platforms (QUAD) [74x,75x]
 
   * Winbond
-    * W25Q080 - Pending
+    * W25Q80 - Pending
     * W25Q16 - Pending
     * W25Q32 - Pending
     * W25Q64
@@ -145,6 +148,9 @@
     * MT35XL02G (4x DIE) - Pending
 
   * Winbond (QUAD on OCTO)
+    * W25Q80 - Pending
+    * W25Q16 - Pending
+    * W25Q32 - Pending
     * W25Q64
     * W25Q128
     * W25Q256
@@ -153,7 +159,7 @@
 ## L4 Platforms (QUAD)
 
   * Winbond
-    * W25Q080 - Pending
+    * W25Q80 - Pending
     * W25Q16 - Pending
     * W25Q32 - Pending
     * W25Q64 - Pending
@@ -218,6 +224,7 @@
   * On Demand - Tentitive Build H563
 
   * Winbond - Initial Ports Available
+    * W25Q80
     * W25Q32
     * W25Q64
     * W25Q128
@@ -233,6 +240,7 @@
 ## U5 Platforms
 
   * Winbond - Initial Ports Available
+    * W25Q80
     * W25Q32
     * W25Q64
     * W25Q128
@@ -261,6 +269,7 @@
  
   *  https://paypal.me/cliveone (Preferred)
   *  https://www.venmo.com/u/cliveone
+  *  https://buymeacoffee.com/cliveone
   *  Amazon Gift Cards
   *  Starbucks Gift Cards
   *  Google Pay (Probably) 
