@@ -31,6 +31,7 @@ The pin usage here is reported in the naming
  * PF10,PG6,PD11,PF9,PF7,PF6 (CUSTOM9) H745I-DISCO
    * https://github.com/cturvey/stm32extldr/blob/main/h7_mt25ql512a/CLIVEONE-MT25QL512A_STM32H745I-DISCO-DUAL.flm
    * https://github.com/cturvey/stm32extldr/blob/main/h7_mt25ql512a/CLIVEONE-MT25QL512A_STM32H7XX-PF10-PG6-PD11-PF9-PF7-PF6.flm
+   * https://github.com/cturvey/stm32extldr/blob/main/h7_mt25ql512a/CLIVEONE-MT25QL512A_STM32H7XX-PF10-PG6-PD11-PF9-PF7-PF6.stldr
 
  * PB2,PB6,PC9,PC10,PE2,PA1 (CUSTOM10)
    * https://github.com/cturvey/stm32extldr/blob/main/h7_mt25ql512a/CLIVEONE-MT25QL512_STM32H7XX-PB2-PB6-PC9-PC10-PE2-PA1.stldr
