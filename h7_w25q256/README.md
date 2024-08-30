@@ -1,7 +1,7 @@
-# Winbond W25Q256 STM32H7
+# Winbond W25Q256 (256Mb, 32MB) STM32H7
 ### Contribute via   https://paypal.me/cliveone  everything helps, this takes a lot of time, parts, fixtures and effort. Suggested $80-100 USD
 
-Support for Winbond W25Q256 compatible parts on STM32H7xx platforms
+Support for Winbond W25Q256 compatible parts on STM32H7xx platforms (mostly H74X / H7X unless otherwise noted)
 
 The pin usage here is reported in the naming
   *  PB2,PB6 PF8,PF9,PE2,PF6 (CUSTOM1)
@@ -52,6 +52,8 @@ The pin usage here is reported in the naming
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q256/CLIVEONE-W25Q256_STM32H7XX-PF10-PG6-PF8-PF9-PF7-PF6.stldr
   *  PF10,PB6 PF8,PF9,PF7,PF6
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q256/CLIVEONE-W25Q256_STM32H7XX-PF10-PB6-PF8-PF9-PF7-PF6.stldr
+  *  PF10,PB6 PD11,PD12,PE2,PF6
+     *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q256/CLIVEONE-W25Q256_STM32H7XX-PF10-PB6-PD11-PD12-PE2-PF6.stldr
 
 Adding in some Keil .FLM to the experiment here, make sure at least 52KB RAM selected for algorithms, and .FLM filename is 31 characters or less
 
