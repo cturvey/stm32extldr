@@ -6,7 +6,7 @@ Support for Micron MT25Q128A / MT25QL128A / N25Q128A compatible parts on STM32L4
 The pin usage here is reported in the custom naming
 
  *  PB10,PC11 PC1,PC2,PC3,PC4
-    *  htt
+    *  https://github.com/cturvey/stm32extldr/blob/main/l4_mt25ql128/CLIVEONE-MT25QL128_STM32L4XX-PB10-PC11-PC1-PC2-PC3-PC4.stldr
    
 This is a tentitve build awaiting more testing/feedback
 
