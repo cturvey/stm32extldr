@@ -26,6 +26,8 @@
 
 #### BGA24 ZIF Socket(s) in hand 6x8mm 5x5 and 4x6 configurations, NUCLEO-144 plug-in fixtures built
 
+#### BGA24 ZIF looking for an 8x8mm aperture
+
 #### SOP16 / SOIC16W plug-in fixtures, and hard wired NUCLEO's built
 
 #### SOIC8(W) 150 mil and 200 mil NUCLEO-144 plug-in fixtures built
@@ -158,13 +160,13 @@
    
 ## L4 Platforms (QUAD)
 
-  * Winbond
+  * Winbond - Initial Ports Available
     * W25Q80 - Pending
     * W25Q16 - Pending
-    * W25Q32 - Pending
-    * W25Q64 - Pending
-    * W25Q128 - Pending
-    * W25Q256 - Pending
+    * W25Q32  
+    * W25Q64  
+    * W25Q128
+    * W25Q256
     * W25Q512
     * W25Q01 (2x DIE) - Pending
     * W25Q02 (4x DIE) - Pending
@@ -179,12 +181,12 @@
     * MX66L1G - Pending
     * MX66L2G - Pending
 
-  * Micron
+  * Micron - Initial Ports Available
     * N25Q032A - Pending
     * N25Q064A - Pending
-    * MT25QL128A / N25Q128A - Pending
-    * MT25QL256A / N25Q256A - Pending
-    * MT25QL512A / N25Q512A - Pending
+    * MT25QL128A / N25Q128A
+    * MT25QL256A / N25Q256A
+    * MT25QL512A / N25Q512A
     * MT25QL01GB / N25Q00AA - Pending
     * MT25QL02GC - Pending
     * MT35XL512 - Pending
