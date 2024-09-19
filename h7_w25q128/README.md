@@ -49,6 +49,7 @@ The pin usage here is reported in the naming (sorry, bit of an odd mix)
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/CLIVEONE-W25Q128_STM32H7XX-PF10-PG6-PD11-PD12-PE2-PD13.stldr
   *  PB2,PC11 PE7,PE8,PE9,PE10 (CUSTOM27)  (H74x, H75x QUAD)
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/W25Q128_STM32H7XX-CUSTOM27.FLM
+     *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/CLIVEONE-W25Q128_STM32H7XX-PB2-PC11-PE7-PE8-PE9-PE10.stldr
 
   *  PF10,PB6  PF8,PF9,PF7,PF6  (H72x, H73x QUAD on OCTO)
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/CLIVEONE-W25Q128_STM32H72X-PF10-PB6-PF8-PF9-PF7-PF6.stldr
