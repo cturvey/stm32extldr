@@ -15,6 +15,9 @@ Tentitive STM32F7 builds for the Winbond W25Q128 / W25QL128 class devices
 * PB2,PB6 PF8,PF9,PE2,PF6
   * https://github.com/cturvey/stm32extldr/blob/main/f7_w25q128/CLIVEONE-W25Q128_STM32F7XX-PB2-PB6-PF8-PF9-PE2-PF6.stldr
 
+* PB2,PB10 PF8,PF9,PE2,PF6
+  * https://github.com/cturvey/stm32extldr/blob/main/f7_w25q128/CLIVEONE-W25Q128_STM32F7XX-PB2-PB10-PF8-PF9-PE2-PF6.stldr
+
 These are tentitve builds awaiting more testing/feedback
 
 For Keil .FLM make sure at least 52KB RAM selected for algorithms, and .FLM filename is 31 characters or less
