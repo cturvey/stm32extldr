@@ -11,6 +11,9 @@ The pin usage here is reported in the naming
   *  PB10,PA4,PB1,PB0,PA7,PA6   (U545 QUAD on OCTO / NUCLEO-U545RE-Q)
      *  https://github.com/cturvey/stm32extldr/blob/main/u5_w25q512/CLIVEONE-W25Q512_STM32U545-PB10-PA4-PB1-PB0-PA7-PA6.stldr
 
+  *  PB10,PA4,PB1,PB0,PA7,PA6   (U599 QUAD on OCTO)
+     *  https://github.com/cturvey/stm32extldr/blob/main/u5_w25q512/CLIVEONE-W25Q512_STM32U599-PB10-PA4-PB1-PB0-PA7-PA6.stldr
+
 These are tentitve builds awaiting more testing/feedback
 
 For Keil .FLM make sure at least 52KB RAM selected for algorithms, and .FLM filename is 31 characters or less
