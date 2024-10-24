@@ -13,6 +13,7 @@ The pin usage here is reported in the naming
 
   *  PB4,PC11 PC1,PC2,PC3,PC0 (CUSTOM78)
      *  https://github.com/cturvey/stm32extldr/blob/main/h5_mx25l6433f/CLIVEONE-MX25L64_STM32H563-PB4-PC11-PC1-PC2-PC3-PC0.stldr
+     *  https://github.com/cturvey/stm32extldr/blob/main/h5_mx25l6433f/MX25L64_STM32H56X-CUSTOM78.FLM
 
 Adding in some Keil .FLM to the experiment here, make sure at least 52KB RAM selected for algorithms, and .FLM filename is 31 characters or less
 
