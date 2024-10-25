@@ -10,6 +10,7 @@ The pin usage here is reported in the naming
 
   *  PF10,PB10 PF8,PF9,PF7,PF6 (CUSTOM99)
      *  https://github.com/cturvey/stm32extldr/blob/main/h5_mx25l6433f/CLIVEONE-MX25L64_STM32H563-PF10-PB10-PF8-PF9-PF7-PF6.stldr
+     *  https://github.com/cturvey/stm32extldr/blob/main/h5_mx25l6433f/MX25L64_STM32H56X-CUSTOM99.FLM
 
   *  PB4,PC11 PC1,PC2,PC3,PC0 (CUSTOM78)
      *  https://github.com/cturvey/stm32extldr/blob/main/h5_mx25l6433f/CLIVEONE-MX25L64_STM32H563-PB4-PC11-PC1-PC2-PC3-PC0.stldr
