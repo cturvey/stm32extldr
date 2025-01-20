@@ -6,7 +6,10 @@ Support for Macronix MX25L512 compatible parts on STM32H5xx platforms
 The pin usage here is reported in the naming
 
   *  PB2,PG6 PD11,PD12,PE2,PD13 (CUSTOM11) NUCLEO-H563ZI
-     *  https://github.com/cturvey/stm32extldr/blob/main/h5_mx25l51245d/CLIVEONE-MX25L512_STM32H563-PB2-PG6-PD11-PD12-PE2-PD13.stldr
+     *  https://github.com/cturvey/stm32extldr/blob/main/h5_mx25l51245g/CLIVEONE-MX25L512_STM32H563-PB2-PG6-PD11-PD12-PE2-PD13.stldr
+
+  *  PF10,PE11 PF8,PF9,PF7,PF6 (CUSTOM79)
+     *  https://github.com/cturvey/stm32extldr/blob/main/h5_mx25l51245g/CLIVEONE-MX25L512_STM32H563-PF10-PE11-PF8-PF9-PF7-PF6.stldr
 
 Adding in some Keil .FLM to the experiment here, make sure at least 52KB RAM selected for algorithms, and .FLM filename is 31 characters or less
 
