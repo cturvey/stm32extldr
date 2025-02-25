@@ -32,5 +32,11 @@ Old fork using Keil Assembler (re)built loaders (4.4 KB)
 * https://github.com/cturvey/stm32extldr/blob/main/f7_mx25l512g/MX25L512G_STM32F7-PF10-PD11-PD12-PE2-PF6-PB6-CLIVEONE.stldr
 
  sourcer32@gmail.com
+ 
+##  Support
+ 
   *  https://paypal.me/cliveone (Preferred)
   *  https://www.venmo.com/u/cliveone
+  *  https://buymeacoffee.com/cliveone
+  *  Amazon Gift Cards
+  *  Google Pay (Probably)
