@@ -16,4 +16,11 @@ https://www.winbond.com/resource-files/W25Q02JV_DTR%20RevB%2004192021.pdf
 For Keil .FLM make sure at least 52KB RAM selected for algorithms, and .FLM filename is 31 characters or less
 
  sourcer32@gmail.com
- https://paypal.me/cliveone
+ 
+##  Support
+ 
+  *  https://paypal.me/cliveone (Preferred)
+  *  https://www.venmo.com/u/cliveone
+  *  https://buymeacoffee.com/cliveone
+  *  Amazon Gift Cards
+  *  Google Pay (Probably)
