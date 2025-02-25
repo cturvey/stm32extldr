@@ -19,5 +19,11 @@ OLD (DEPRECATED)
 These are a tentitve build awaiting more testing/feedback, I do have Keil .FLM loaders working too
 
  sourcer32@gmail.com
+ 
+##  Support
+ 
   *  https://paypal.me/cliveone (Preferred)
   *  https://www.venmo.com/u/cliveone
+  *  https://buymeacoffee.com/cliveone
+  *  Amazon Gift Cards
+  *  Google Pay (Probably)
