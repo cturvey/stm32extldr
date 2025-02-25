@@ -17,4 +17,11 @@ PB2,PB6  PD11,PD12,PE2,PD13 (CUSTOM4)
   *  https://github.com/cturvey/stm32extldr/blob/main/f7_w25q256/CLIVEONE-W25Q256_STM32F7XX-PB2-PB6-PD11-PD12-PE2-PD13.stldr
 
  sourcer32@gmail.com
- https://paypal.me/cliveone
+ 
+##  Support
+ 
+  *  https://paypal.me/cliveone (Preferred)
+  *  https://www.venmo.com/u/cliveone
+  *  https://buymeacoffee.com/cliveone
+  *  Amazon Gift Cards
+  *  Google Pay (Probably)
