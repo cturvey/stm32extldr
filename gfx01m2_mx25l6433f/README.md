@@ -10,5 +10,12 @@ https://www.st.com/en/embedded-software/x-cube-display.html
 Initial loader targets
   *  NUCLEO-G474RE
   
-  sourcer32@gmail.com
-  https://paypal.me/cliveone
+ sourcer32@gmail.com
+ 
+##  Support
+ 
+  *  https://paypal.me/cliveone (Preferred)
+  *  https://www.venmo.com/u/cliveone
+  *  https://buymeacoffee.com/cliveone
+  *  Amazon Gift Cards
+  *  Google Pay (Probably)
