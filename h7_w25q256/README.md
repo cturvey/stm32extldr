@@ -54,6 +54,8 @@ The pin usage here is reported in the naming
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q256/CLIVEONE-W25Q256_STM32H7XX-PF10-PB6-PF8-PF9-PF7-PF6.stldr
   *  PF10,PB6 PD11,PD12,PE2,PF6
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q256/CLIVEONE-W25Q256_STM32H7XX-PF10-PB6-PD11-PD12-PE2-PF6.stldr
+  *  PB2,PB10 PD11,PD12,PE2,PD13 (CUSTOMX) NUCLEO-ALT / H7 MINIMUM
+     *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q256/CLIVEONE-W25Q256_STM32H7XX-PB2-PB10-PD11-PD12-PE2-PD13.stldr
   *  PF10,PG6 PD11,PD12,PE2,PD13
      *   (H72X OCTO STLDR) https://github.com/cturvey/stm32extldr/blob/main/h7_w25q256/CLIVEONE-W25Q256_STM32H72X-PF10-PG6-PD11-PD12-PE2-PD13.stldr
 
