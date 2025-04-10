@@ -5,6 +5,7 @@ Support for Winbond W25Q128 compatible parts on STM32H7xx platforms,  H7XX build
 
 The pin usage here is reported in the naming (sorry, bit of an odd mix)
 
+### H74x, H75x
   *  PB2,PB6 PF8,PD9,PE2,PF6 (CUSTOM1)  (H74x, H75x QUAD)
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/CLIVEONE-W25Q128_STM32H7XX-PB2-PB6-PF8-PF9-PE2-PF6.stldr
   *  PB2,PB6 PF8,PF9,PF7,PF6 (CUSTOM3)  (H74x, H75x QUAD)
@@ -51,11 +52,15 @@ The pin usage here is reported in the naming (sorry, bit of an odd mix)
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/W25Q128_STM32H7XX-CUSTOM27.FLM
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/CLIVEONE-W25Q128_STM32H7XX-PB2-PC11-PE7-PE8-PE9-PE10.stldr
 
+### H72x, H73x
   *  PF10,PB6  PF8,PF9,PF7,PF6  (H72x, H73x QUAD on OCTO)
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/CLIVEONE-W25Q128_STM32H72X-PF10-PB6-PF8-PF9-PF7-PF6.stldr
   *  PF10,PG6  PF8,PF9,PF7,PF6  (H72x, H73x QUAD on OCTO) (FK723M1)
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/CLIVEONE-W25Q128_STM32H72X-PF10-PG6-PF8-PF9-PF7-PF6.stldr
+  *  PF10,PE11 PF8,PF9,PF7,PF6  (H72x, H73x QUAD on OCTO)
+     *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/CLIVEONE-W25Q128_STM32H72X-PF10-PE11-PF8-PF9-PE2-PF6.stldr
 
+### H7Ax, H7Bx
   *  PB2,PB6  PC3,PD12,PE2,PD13  (H7Ax, H7Bx QUAD on OCTO)  
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/CLIVEONE-W25Q128_STM32H7AX-PB2-PB6-PC3-PD12-PE2-PD13.stldr
   *  PB2,PG6  PD11,PD12,PA7,PD13  (H7Ax, H7Bx QUAD on OCTO)
