@@ -58,6 +58,8 @@ The pin usage here is reported in the naming (sorry, bit of an odd mix)
   *  PF10,PG6  PF8,PF9,PF7,PF6  (H72x, H73x QUAD on OCTO) (FK723M1)
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/CLIVEONE-W25Q128_STM32H72X-PF10-PG6-PF8-PF9-PF7-PF6.stldr
   *  PF10,PE11 PF8,PF9,PF7,PF6  (H72x, H73x QUAD on OCTO)
+     *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/CLIVEONE-W25Q128_STM32H72X-PF10-PE11-PF8-PF9-PF7-PF6.stldr
+  *  PF10,PE11 PF8,PF9,PE2,PF6  (H72x, H73x QUAD on OCTO)
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/CLIVEONE-W25Q128_STM32H72X-PF10-PE11-PF8-PF9-PE2-PF6.stldr
 
 ### H7Ax, H7Bx
