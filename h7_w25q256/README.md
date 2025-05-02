@@ -3,14 +3,15 @@
 
 Support for Winbond W25Q256 compatible parts on STM32H7xx platforms (mostly H74X / H7X unless otherwise noted)
 
-The pin usage here is reported in the naming
+The pin usage here is reported in the naming, sorry a bit of a mix
   *  PB2,PB6 PF8,PF9,PE2,PF6 (CUSTOM1)
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q256/CLIVEONE-W25Q256_STM32H7XX-PB2-PB6-PF8-PF9-PE2-PF6.stldr
   *  PB2,PB6 PD11,PF9,PE2,PF6 (CUSTOM2)
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q256/CLIVEONE-W25Q256_STM32H7XX-PB2-PB6-PD11-PF9-PE2-PF6.stldr
   *  PB2,PB6 PF8,PF9,PF7,PF6 (CUSTOM3)
-     *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q256/CLIVEONE-W25Q256_STM32H7XX-PB2-PB6-PF8-PF9-PF7-PF6.flm
-     *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q256/CLIVEONE-W25Q256_STM32H7XX-PB2-PB6-PF8-PF9-PF7-PF6.stldr
+     *  (H74x QUAD FLM) https://github.com/cturvey/stm32extldr/blob/main/h7_w25q256/CLIVEONE-W25Q256_STM32H7XX-PB2-PB6-PF8-PF9-PF7-PF6.flm
+     *  (H74x QUAD STLDR) https://github.com/cturvey/stm32extldr/blob/main/h7_w25q256/CLIVEONE-W25Q256_STM32H7XX-PB2-PB6-PF8-PF9-PF7-PF6.stldr
+     *  (H72x OCTO STLDR) https://github.com/cturvey/stm32extldr/blob/main/h7_w25q256/CLIVEONE-W25Q256_STM32H72X-PB2-PB6-PF8-PF9-PF7-PF6.stldr
   *  PB2,PB6 PD11,PD12,PE2,PD13 (CUSTOM4)
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q256/CLIVEONE-W25Q256_STM32H7XX-PB2-PB6-PD11-PD12-PE2-PD13.flm
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q256/CLIVEONE-W25Q256_STM32H7XX-PB2-PB6-PD11-PD12-PE2-PD13.stldr
@@ -57,7 +58,7 @@ The pin usage here is reported in the naming
   *  PB2,PB10 PD11,PD12,PE2,PD13 (CUSTOMX) NUCLEO-ALT / H7 MINIMUM
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q256/CLIVEONE-W25Q256_STM32H7XX-PB2-PB10-PD11-PD12-PE2-PD13.stldr
   *  PF10,PG6 PD11,PD12,PE2,PD13
-     *   (H72X OCTO STLDR) https://github.com/cturvey/stm32extldr/blob/main/h7_w25q256/CLIVEONE-W25Q256_STM32H72X-PF10-PG6-PD11-PD12-PE2-PD13.stldr
+     * (H72X OCTO STLDR) https://github.com/cturvey/stm32extldr/blob/main/h7_w25q256/CLIVEONE-W25Q256_STM32H72X-PF10-PG6-PD11-PD12-PE2-PD13.stldr
 
 Adding in some Keil .FLM to the experiment here, make sure at least 52KB RAM selected for algorithms, and .FLM filename is 31 characters or less
 
