@@ -4,6 +4,9 @@
   *  PF4,PA0, PF0,PF1,PF2,PF3  (U59x, U5Ax QUAD on OCTOSPI2)
      *  https://github.com/cturvey/stm32extldr/blob/main/u5_mt25q128/CLIVEONE-MT25QL128_STM32U599-PA0-PF4-PF0-PF1-PF2-PF3.stldr
 
+  *  PF4,PI5, PI3,PI2,PI1,PF3  (U59x, U5Ax QUAD on OCTOSPI2)
+     *  https://github.com/cturvey/stm32extldr/blob/main/u5_mt25q128/CLIVEONE-MT25QL128_STM32U599-PF4-PI5-PI3-PI2-PI1-PF3.stldr
+
 For Keil .FLM make sure at least 52KB RAM selected for algorithms, and .FLM filename is 31 characters or less
 
  sourcer32@gmail.com
