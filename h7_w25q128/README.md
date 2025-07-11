@@ -3,7 +3,7 @@
 
 Support for Winbond W25Q128 compatible parts on STM32H7xx platforms,  H7XX builds for H74x and H75x,  H72X for H72x and H73x,  H7AX for H7Ax and H7Bx 
 
-The pin usage here is reported in the naming (sorry, bit of an odd mix)
+The pin usage here is reported in the naming (sorry, bit of an odd mix, ST has a lot of different die in the H7 family)
 
 ### H74x, H75x
   *  PB2,PB6 PF8,PD9,PE2,PF6 (CUSTOM1)  (H74x, H75x QUAD)
@@ -61,11 +61,15 @@ The pin usage here is reported in the naming (sorry, bit of an odd mix)
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/CLIVEONE-W25Q128_STM32H72X-PF10-PE11-PF8-PF9-PF7-PF6.stldr
   *  PF10,PE11 PF8,PF9,PE2,PF6  (H72x, H73x QUAD on OCTO)
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/CLIVEONE-W25Q128_STM32H72X-PF10-PE11-PF8-PF9-PE2-PF6.stldr
+  *  PF4,PG12 PF0,PF1,PF2,PF3  (H72x, H73x QUAD on OCTOSPI2)
+     *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/CLIVEONE-W25Q128_STM32H730-PF4-PG12-PF0-PF1-PF2-PF3.stldr
+  *  PB2,PG6 PD11,PD12,PE2,PD13  (H72x, H73x QUAD on OCTO, NUCLEO-H723ZG)
+     *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/CLIVEONE-W25Q128_STM32H730-PB2-PG6-PD11-PD12-PE2-PD13.stldr
 
 ### H7Ax, H7Bx
   *  PB2,PB6  PC3,PD12,PE2,PD13  (H7Ax, H7Bx QUAD on OCTO)  
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/CLIVEONE-W25Q128_STM32H7AX-PB2-PB6-PC3-PD12-PE2-PD13.stldr
-  *  PB2,PG6  PD11,PD12,PA7,PD13  (H7Ax, H7Bx QUAD on OCTO)
+  *  PB2,PG6  PD11,PD12,PA7,PD13  (H7Ax, H7Bx QUAD on OCTO, NUCLEO-H7A3ZI-Q ?)
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/CLIVEONE-W25Q128_STM32H7AX-PB2-PG6-PD11-PD12-PA7-PD13.stldr
   *  PB2,PC11  PD11,PD12,PA7,PD13  (H7Ax, H7Bx QUAD on OCTO)
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/CLIVEONE-W25Q128_STM32H7AX-PB2-PC11-PD11-PD12-PA7-PD13.stldr
@@ -75,6 +79,8 @@ The pin usage here is reported in the naming (sorry, bit of an odd mix)
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/W25Q128_STM32H7AX-CUSTOM30.FLM
   
 These are tentitve builds awaiting more testing/feedback
+
+I might need to remake some of these, some test the Winbond ID and dislike newer EF 70 18 parts (W25Q128VJ-IM/JM)
 
 For Keil .FLM make sure at least 52KB RAM selected for algorithms, and .FLM filename is 31 characters or less
 
