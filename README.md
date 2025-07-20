@@ -214,12 +214,19 @@
 
 ## G4 Platforms
 
+  * On Demand
+     
   * Macronix
     * MX25L64 (GFX Board)
 
+  * Winbond
+    * W25Q16
+    * W25Q64
+    * W25Q128
+     
 ## L5 Platforms
 
-   * On Demand
+  * On Demand
      
 ## H5 Platforms (XSPI)
 
