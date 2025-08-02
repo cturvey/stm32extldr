@@ -49,14 +49,15 @@ The pin usage here is reported in the naming, sorry a bit of a mix
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q256/CLIVEONE-W25Q256_STM32H7XX-PB2-PB6-PC9-PC10-PE2-PD13.stldr
   *  PB2,PG6 PD11,PF9,PF7,PF6 (CUSTOM19)
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q256/CLIVEONE-W25Q256_STM32H7XX-PB2-PG6-PD11-PF9-PF7-PF6.stldr
-  *  PF10,PG6 PF8,PF9,PF7,PF6
+  *  PF10,PG6 PF8,PF9,PF7,PF6 (CUSTOM23)
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q256/CLIVEONE-W25Q256_STM32H7XX-PF10-PG6-PF8-PF9-PF7-PF6.stldr
-  *  PF10,PB6 PF8,PF9,PF7,PF6
+  *  PF10,PB6 PF8,PF9,PF7,PF6 (CUSTOM25)
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q256/CLIVEONE-W25Q256_STM32H7XX-PF10-PB6-PF8-PF9-PF7-PF6.stldr
   *  PF10,PB6 PD11,PD12,PE2,PF6
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q256/CLIVEONE-W25Q256_STM32H7XX-PF10-PB6-PD11-PD12-PE2-PF6.stldr
-  *  PB2,PB10 PD11,PD12,PE2,PD13 (CUSTOMX) NUCLEO-ALT / H7 MINIMUM
-     *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q256/CLIVEONE-W25Q256_STM32H7XX-PB2-PB10-PD11-PD12-PE2-PD13.stldr
+  *  PB2,PB10 PD11,PD12,PE2,PD13 (CUSTOM27) NUCLEO-ALT / H7 MINIMUM
+     *  (H7XX QUAD STLDR) https://github.com/cturvey/stm32extldr/blob/main/h7_w25q256/CLIVEONE-W25Q256_STM32H7XX-PB2-PB10-PD11-PD12-PE2-PD13.stldr
+     *  (H7XX QUAD FLM) https://github.com/cturvey/stm32extldr/blob/main/h7_w25q256/W25Q256_STM32H7XX-CUSTOM27.FLM
   *  PF10,PG6 PD11,PD12,PE2,PD13
      * (H72X OCTO STLDR) https://github.com/cturvey/stm32extldr/blob/main/h7_w25q256/CLIVEONE-W25Q256_STM32H72X-PF10-PG6-PD11-PD12-PE2-PD13.stldr
 
