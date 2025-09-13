@@ -9,6 +9,8 @@ The pin usage here is reported in the naming
      *  https://github.com/cturvey/stm32extldr/blob/main/u5_w25q32/CLIVEONE-W25Q32_STM32U599-PF10-PA4-PF8-PF9-PF7-PF6.stldr
   *  PB10,PA4,PF8,PF9,PF7,PF6  (U59x, U9Ax QUAD on OCTO)  
      *  https://github.com/cturvey/stm32extldr/blob/main/u5_w25q32/CLIVEONE-W25Q32_STM32U599-PB10-PA4-PF8-PF9-PF7-PF6.stldr
+  *  PA3,PC11,PC1,PC2,PC3,PC0  (U5Fx, U9Gx QUAD on OCTO)  
+     *  https://github.com/cturvey/stm32extldr/blob/main/u5_w25q32/CLIVEONE-W25Q32_STM32U5F9-PA3-PC11-PC1-PC2-PC3-PC0.stldr
 
 These are tentitve builds awaiting more testing/feedback
 
