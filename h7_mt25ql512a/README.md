@@ -62,6 +62,9 @@ The pin usage here is reported in the naming
    * https://github.com/cturvey/stm32extldr/blob/main/h7_mt25ql512a/CLIVEONE-MT25QL512A_STM32H7XX-PB2-PB6-PD11-PC10-PE2-PD13.stldr
    * https://github.com/cturvey/stm32extldr/blob/main/h7_mt25ql512a/MT25QL512A_STM32H7XX-CUSTOM20.FLM
 
+ * PF10,PG6,PD11,PD12,PF7,PF6 (CUSTOM68)
+   * https://github.com/cturvey/stm32extldr/blob/main/h7_mt25ql512a/CLIVEONE-MT25QL512A_STM32H7XX-PF10-PG6-PD11-PD12-PF7-PF6.stldr
+
  * PB2,PB6,PD11,PD12,PE2,PD13 (H7Ax, H7Bx QUAD on OCTO) NUCLEO-H7A3
    * https://github.com/cturvey/stm32extldr/blob/main/h7_mt25ql512a/MT25QL512A_STM32H7AX-CUSTOM12.FLM
 
@@ -84,6 +87,7 @@ https://github.com/cturvey/stm32extldr/blob/main/f7_w25q128/KeilFLMSetRamSize.jp
  
   *  https://paypal.me/cliveone (Preferred)
   *  https://www.venmo.com/u/cliveone
+  *  https://buymeacoffee.com/cliveone
   *  Amazon Gift Cards
   *  Starbucks Gift Cards
   *  Google Pay (Probably) 
