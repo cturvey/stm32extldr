@@ -51,6 +51,8 @@ The pin usage here is reported in the naming (sorry, bit of an odd mix, ST has a
   *  PB2,PC11 PE7,PE8,PE9,PE10 (CUSTOM27)  (H74x, H75x QUAD)
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/W25Q128_STM32H7XX-CUSTOM27.FLM
      *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/CLIVEONE-W25Q128_STM32H7XX-PB2-PC11-PE7-PE8-PE9-PE10.stldr
+  *  PB2,PB10 PD11,PC10,PE2,PF6 (CUSTOM32)  (H74x, H75x QUAD)
+     *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q128/W25Q128_STM32H7XX-CUSTOM32.FLM
 
 ### H72x, H73x
   *  PF10,PB6  PF8,PF9,PF7,PF6  (H72x, H73x QUAD on OCTO)
