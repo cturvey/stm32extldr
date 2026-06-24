@@ -51,9 +51,11 @@ Support for Winbond W25Q64 compatible parts on STM32H7xx platforms
     *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q64/W25Q64_STM32H7AX-CUSTOM29.FLM
 
 ### H72x, H73x
-  * PF10,PG6,PF8,PF9,PF7,PF6   (H72x QUAD on OCTO) FK723M1-ZGT6 / H723 MINIMUM BOARD
+  * PF10,PG6, PF8,PF9,PF7,PF6   (H72x QUAD on OCTO) FK723M1-ZGT6 / H723 MINIMUM BOARD
     *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q64/CLIVEONE-W25Q64_STM32H72X-PF10-PG6-PF8-PF9-PF7-PF6.stldr
-
+  * PB2,PG6, PC9,PC10,PB13,PD13  (H72x QUAD on OCTO)
+    *  https://github.com/cturvey/stm32extldr/blob/main/h7_w25q64/CLIVEONE-W25Q64_STM32H72X-PB2-PG6-PC9-PC10-PB13-PD13.stldr
+   
  sourcer32@gmail.com
  
 ##  Support
